@@ -1,0 +1,1101 @@
+OrderID,OrderDate,ProductID,ProductName,Category,Quantity,UnitPrice,CostPerUnit,Discount,CustomerType,PaymentMode
+O20974,2024-03-01,P007,Paneer Roll,Meals,9,170.0,100.0,16.6,Returning,Cash
+O20204,2024-03-01,P001,Classic Veg Burger,Snacks,3,150.0,90.0,10.43,Returning,Card
+O20978,2024-03-02,P008,Chocolate Shake,Beverages,5,160.0,85.0,23.63,New,Card
+O20079,2024-03-03,P007,Paneer Roll,Meals,7,170.0,100.0,16.61,Returning,Card
+O20434,2024-03-03,P007,Paneer Roll,Meals,7,170.0,100.0,22.08,New,Cash
+O21078,2024-03-04,P010,Garlic Bread,Snacks,3,110.0,65.0,1.9,New,Cash
+O20830,2024-03-05,P005,Cold Coffee,Beverages,3,140.0,70.0,8.59,Returning,Wallet
+O20182,2024-03-07,P002,Veg Pizza,Meals,6,250.0,160.0,5.79,New,Cash
+O20568,2024-03-09,P004,French Fries,Snacks,6,120.0,60.0,5.62,Returning,Card
+O21049,2024-03-10,P002,Veg Pizza,Meals,9,250.0,160.0,11.18,New,UPI
+O20522,2024-03-11,P001,Classic Veg Burger,Meals,1,150.0,90.0,13.59,New,Wallet
+O20409,2024-03-11,P005,Cold Coffee,Beverages,2,140.0,70.0,11.71,Returning,Wallet
+O20725,2024-03-12,P001,Classic Veg Burger,Meals,8,150.0,90.0,23.77,Returning,Cash
+O20495,2024-03-14,P006,Iced Tea,Beverages,4,100.0,50.0,14.25,New,Card
+O20611,2024-03-15,P002,Veg Pizza,Meals,9,250.0,160.0,15.11,New,Wallet
+O20919,2024-03-16,P004,French Fries,Snacks,8,120.0,60.0,19.05,Returning,UPI
+O20112,2024-03-16,P006,Iced Tea,Beverages,1,100.0,50.0,19.19,Returning,UPI
+O20588,2024-03-17,P005,Cold Coffee,Beverages,9,140.0,70.0,24.87,New,UPI
+O20521,2024-03-17,P002,Veg Pizza,Meals,7,250.0,160.0,1.44,New,Wallet
+O20170,2024-03-18,P001,Classic Veg Burger,Meals,3,150.0,90.0,11.43,Returning,Card
+O21089,2024-03-18,P010,Garlic Bread,Snacks,3,110.0,65.0,12.95,New,Card
+O20001,2024-03-18,P006,Iced Tea,Beverages,1,100.0,50.0,14.66,New,Card
+O20240,2024-03-20,P007,Paneer Roll,Meals,4,170.0,100.0,,Returning,Wallet
+O20810,2024-03-20,P007,Paneer Roll,Meals,9,170.0,100.0,17.18,Returning,Card
+O20573,2024-03-21,P008,Chocolate Shake,Beverages,5,160.0,85.0,2.9,New,Wallet
+O20639,2024-03-21,P010,Garlic Bread,Snacks,1,110.0,65.0,19.99,Returning,Wallet
+O21083,2024-03-22,P006,Iced Tea,Beverages,9,100.0,50.0,11.93,New,UPI
+O20979,2024-03-22,P002,Veg Pizza,Meals,5,250.0,160.0,19.03,New,UPI
+O21085,2024-03-23,P002,Veg Pizza,Meals,2,250.0,160.0,10.53,New,Cash
+O21012,2024-03-24,P007,Paneer Roll,Meals,10,170.0,100.0,,Returning,UPI
+O20055,2024-03-24,P009,Nachos,Snacks,5,130.0,70.0,0.65,New,Cash
+O20736,2024-03-24,P001,Classic Veg Burger,Meals,1,150.0,90.0,23.56,Returning,UPI
+O20314,2024-03-25,P009,Nachos,Snacks,9,130.0,70.0,7.54,Returning,Card
+O20482,2024-03-25,P003,Paneer Wrap,Meals,7,180.0,110.0,21.51,Returning,Cash
+O20123,2024-03-26,P002,Veg Pizza,Beverages,6,250.0,160.0,7.45,Returning,Wallet
+O20147,2024-03-27,P002,Veg Pizza,Meals,3,250.0,160.0,9.51,New,Wallet
+O20667,2024-03-28,P005,Cold Coffee,Beverages,5,140.0,70.0,9.3,Returning,Wallet
+O20684,2024-03-29,P007,Paneer Roll,Meals,8,170.0,100.0,21.81,New,Card
+O20024,2024-03-29,P003,Paneer Wrap,Meals,8,180.0,110.0,3.39,Returning,Cash
+O20808,2024-03-29,P004,French Fries,Snacks,10,120.0,60.0,16.52,New,UPI
+O20039,2024-04-01,P003,Paneer Wrap,Meals,6,180.0,110.0,,New,Wallet
+O20389,2024-04-02,P009,Nachos,Snacks,4,130.0,70.0,1.35,Returning,Card
+O20382,2024-04-02,P009,Nachos,Snacks,10,130.0,70.0,9.19,Returning,Card
+O20927,2024-04-03,P007,Paneer Roll,Meals,8,170.0,100.0,7.63,New,Card
+O20743,2024-04-04,P005,Cold Coffee,Meals,2,140.0,70.0,24.61,New,Card
+O20971,2024-04-04,P006,Iced Tea,Beverages,9,100.0,50.0,4.91,Returning,Wallet
+O20025,2024-04-04,P010,Garlic Bread,Snacks,10,110.0,65.0,0.72,Returning,Cash
+O20768,2024-04-04,P001,Classic Veg Burger,Meals,4,150.0,90.0,1.95,Returning,Wallet
+O20860,2024-04-04,P006,Iced Tea,Beverages,10,100.0,50.0,,New,Cash
+O20457,2024-04-05,P004,French Fries,Snacks,2,120.0,60.0,,Returning,UPI
+O20163,2024-04-05,P003,Paneer Wrap,Meals,5,180.0,110.0,,Returning,Wallet
+O20029,2024-04-05,P001,Classic Veg Burger,Meals,1,150.0,90.0,21.6,New,Wallet
+O20523,2024-04-06,P002,Veg Pizza,Meals,7,250.0,160.0,12.19,New,Wallet
+O20534,2024-04-06,P003,Paneer Wrap,Meals,5,180.0,110.0,12.37,New,UPI
+O20692,2024-04-07,P007,Paneer Roll,Meals,5,170.0,100.0,15.24,Returning,Card
+O20744,2024-04-07,P006,Iced Tea,Beverages,10,100.0,50.0,0.46,Returning,Card
+O20310,2024-04-08,P004,French Fries,Snacks,4,120.0,60.0,,New,Wallet
+O20581,2024-04-08,P001,Classic Veg Burger,Beverages,10,150.0,90.0,1.4,New,UPI
+O20934,2024-04-08,P003,Paneer Wrap,Meals,5,180.0,110.0,20.0,New,Card
+O20280,2024-04-09,P004,French Fries,Snacks,5,120.0,60.0,16.8,Returning,Cash
+O20552,2024-04-09,P004,French Fries,Snacks,9,120.0,60.0,8.62,Returning,Card
+O20402,2024-04-10,P009,Nachos,Snacks,4,130.0,70.0,,New,Cash
+O20301,2024-04-10,P006,Iced Tea,Beverages,9,100.0,50.0,16.22,Returning,Card
+O20984,2024-04-11,P008,Chocolate Shake,Beverages,6,160.0,85.0,23.77,Returning,UPI
+O20076,2024-04-11,P009,Nachos,Snacks,3,130.0,70.0,23.39,Returning,Cash
+O20616,2024-04-14,P009,Nachos,Snacks,10,130.0,70.0,,New,Cash
+O20365,2024-04-16,P001,Classic Veg Burger,Meals,6,150.0,90.0,,Returning,Card
+O20141,2024-04-16,P009,Nachos,Snacks,2,130.0,70.0,8.84,Returning,Wallet
+O20286,2024-04-17,P009,Nachos,Snacks,3,130.0,70.0,19.38,New,Cash
+O20260,2024-04-17,P002,Veg Pizza,Meals,1,250.0,160.0,1.04,Returning,Wallet
+O20511,2024-04-19,P001,Classic Veg Burger,Meals,9,150.0,90.0,0.07,New,Cash
+O20464,2024-04-20,P004,French Fries,Snacks,1,120.0,60.0,2.5,Returning,Card
+O20530,2024-04-21,P010,Garlic Bread,Snacks,3,110.0,65.0,9.64,Returning,Cash
+O20258,2024-04-22,P010,Garlic Bread,Snacks,6,110.0,65.0,1.29,New,Wallet
+O20104,2024-04-22,P001,Classic Veg Burger,Meals,10,150.0,90.0,14.4,New,UPI
+O20806,2024-04-23,P006,Iced Tea,Beverages,10,100.0,50.0,20.77,Returning,UPI
+O20764,2024-04-23,P005,Cold Coffee,Beverages,6,140.0,70.0,11.45,New,Card
+O20590,2024-04-24,P006,Iced Tea,Beverages,2,100.0,50.0,7.79,New,UPI
+O20597,2024-04-26,P008,Chocolate Shake,Beverages,10,160.0,85.0,11.94,Returning,UPI
+O20584,2024-04-27,P004,French Fries,Snacks,3,120.0,60.0,5.65,Returning,UPI
+O20645,2024-04-29,P005,Cold Coffee,Beverages,9,140.0,70.0,10.56,Returning,Wallet
+O20341,2024-04-30,P004,French Fries,Snacks,5,120.0,60.0,3.22,New,UPI
+O20027,2024-05-01,P001,Classic Veg Burger,Meals,3,150.0,90.0,24.76,Returning,Cash
+O20303,2024-05-01,P001,Classic Veg Burger,Meals,3,150.0,90.0,6.4,Returning,Card
+O20710,2024-05-02,P005,Cold Coffee,Beverages,3,140.0,70.0,24.06,New,Card
+O21069,2024-05-04,P009,Nachos,Snacks,8,130.0,70.0,,Returning,Cash
+O20472,2024-05-04,P007,Paneer Roll,Meals,3,170.0,100.0,20.53,Returning,Card
+O20857,2024-05-05,P004,French Fries,Snacks,5,120.0,60.0,8.48,New,Card
+O20023,2024-05-05,P005,Cold Coffee,Beverages,1,140.0,70.0,16.5,New,UPI
+O20767,2024-05-06,P004,French Fries,Snacks,10,120.0,60.0,,Returning,Card
+O20351,2024-05-06,P002,Veg Pizza,Meals,4,250.0,160.0,22.05,Returning,Wallet
+O20844,2024-05-08,P004,French Fries,Snacks,4,120.0,60.0,8.94,New,UPI
+O21043,2024-05-08,P005,Cold Coffee,Beverages,1,140.0,70.0,14.4,New,Wallet
+O20754,2024-05-08,P005,Cold Coffee,Beverages,9,140.0,70.0,24.33,Returning,Cash
+O20090,2024-05-08,P007,Paneer Roll,Meals,3,170.0,100.0,,Returning,Wallet
+O20215,2024-05-09,P007,Paneer Roll,Meals,9,170.0,100.0,,New,UPI
+O20535,2024-05-09,P009,Nachos,Snacks,6,130.0,70.0,2.9,New,Card
+O20505,2024-05-10,P010,Garlic Bread,Snacks,4,110.0,65.0,13.91,New,UPI
+O21094,2024-05-11,P009,Nachos,Snacks,9,130.0,70.0,4.94,New,UPI
+O20054,2024-05-11,P002,Veg Pizza,Meals,6,250.0,160.0,5.83,New,Cash
+O21039,2024-05-11,P002,Veg Pizza,Meals,7,250.0,160.0,24.48,Returning,Card
+O20295,2024-05-13,P009,Nachos,Snacks,2,130.0,70.0,7.73,Returning,UPI
+O20531,2024-05-13,P004,French Fries,Snacks,9,120.0,60.0,3.11,New,Cash
+O20722,2024-05-14,P004,French Fries,Beverages,3,120.0,60.0,21.55,New,Cash
+O20911,2024-05-15,P006,Iced Tea,Beverages,9,100.0,50.0,5.79,Returning,Cash
+O20316,2024-05-16,P010,Garlic Bread,Snacks,4,110.0,65.0,18.23,Returning,Card
+O20209,2024-05-16,P003,Paneer Wrap,Meals,7,180.0,110.0,2.92,Returning,UPI
+O20008,2024-05-17,P006,Iced Tea,Beverages,6,100.0,50.0,13.48,Returning,Wallet
+O20058,2024-05-17,P002,Veg Pizza,Meals,6,250.0,160.0,22.25,New,UPI
+O20194,2024-05-17,P006,Iced Tea,Beverages,7,100.0,50.0,,Returning,Wallet
+O20938,2024-05-17,P007,Paneer Roll,Meals,10,170.0,100.0,21.73,Returning,UPI
+O20630,2024-05-17,P006,Iced Tea,Beverages,3,100.0,50.0,0.05,Returning,Cash
+O20900,2024-05-17,P003,Paneer Wrap,Meals,2,180.0,110.0,14.39,Returning,UPI
+O21090,2024-05-18,P009,Nachos,Snacks,3,130.0,70.0,7.58,New,Card
+O21075,2024-05-18,P010,Garlic Bread,Snacks,10,110.0,65.0,,Returning,Cash
+O20941,2024-05-20,P010,Garlic Bread,Snacks,5,110.0,65.0,10.98,Returning,Card
+O20843,2024-05-21,P002,Veg Pizza,Meals,7,250.0,160.0,21.69,Returning,Card
+O20804,2024-05-21,P008,Chocolate Shake,Beverages,2,160.0,85.0,17.34,New,Cash
+O20701,2024-05-21,P006,Iced Tea,Beverages,5,100.0,50.0,4.99,New,Card
+O20338,2024-05-21,P005,Cold Coffee,Beverages,2,140.0,70.0,17.67,New,UPI
+O20135,2024-05-22,P004,French Fries,Snacks,9,120.0,60.0,9.47,New,UPI
+O20423,2024-05-23,P008,Chocolate Shake,Beverages,7,160.0,85.0,10.5,Returning,Cash
+O20077,2024-05-23,P007,Paneer Roll,Meals,5,170.0,100.0,1.64,New,Card
+O20990,2024-05-25,P003,Paneer Wrap,Meals,7,180.0,110.0,13.77,Returning,UPI
+O21097,2024-05-27,P007,Paneer Roll,Meals,8,170.0,100.0,,Returning,UPI
+O20679,2024-05-28,P001,Classic Veg Burger,Meals,10,150.0,90.0,18.99,Returning,Cash
+O20412,2024-05-28,P009,Nachos,Snacks,4,130.0,70.0,20.83,New,Card
+O21065,2024-05-29,P008,Chocolate Shake,Beverages,10,160.0,85.0,11.52,Returning,Card
+O20205,2024-05-30,P007,Paneer Roll,Meals,1,170.0,100.0,0.41,New,Wallet
+O20287,2024-05-30,P006,Iced Tea,Beverages,6,100.0,50.0,4.65,Returning,Wallet
+O20380,2024-05-30,P006,Iced Tea,Beverages,7,100.0,50.0,7.75,Returning,Wallet
+O20335,2024-05-31,P006,Iced Tea,Beverages,8,100.0,50.0,22.94,New,Cash
+O21066,2024-05-31,P005,Cold Coffee,Beverages,2,140.0,70.0,22.56,New,Wallet
+O20815,2024-06-01,P005,Cold Coffee,Beverages,9,140.0,70.0,9.32,Returning,Wallet
+O20778,2024-06-01,P008,Chocolate Shake,Beverages,9,160.0,85.0,15.92,New,UPI
+O20864,2024-06-01,P009,Nachos,Snacks,8,130.0,70.0,6.61,Returning,Cash
+O20119,2024-06-02,P006,Iced Tea,Beverages,4,100.0,50.0,14.45,New,Card
+O20512,2024-06-02,P001,Classic Veg Burger,Meals,10,150.0,90.0,9.87,New,UPI
+O20897,2024-06-04,P004,French Fries,Beverages,4,120.0,60.0,0.1,Returning,Card
+O20241,2024-06-05,P010,Garlic Bread,Snacks,7,110.0,65.0,,Returning,UPI
+O20612,2024-06-06,P001,Classic Veg Burger,Meals,9,150.0,90.0,14.98,Returning,Wallet
+O20190,2024-06-08,P010,Garlic Bread,Snacks,10,110.0,65.0,6.57,Returning,Cash
+O20931,2024-06-08,P005,Cold Coffee,Beverages,1,140.0,70.0,,New,Card
+O20139,2024-06-09,P007,Paneer Roll,Meals,4,170.0,100.0,14.93,Returning,Cash
+O20138,2024-06-10,P006,Iced Tea,Beverages,10,100.0,50.0,,New,Wallet
+O20094,2024-06-10,P005,Cold Coffee,Beverages,2,140.0,70.0,10.3,Returning,Card
+O20910,2024-06-12,P010,Garlic Bread,Meals,1,110.0,65.0,17.53,New,UPI
+O20716,2024-06-12,P008,Chocolate Shake,Beverages,9,160.0,85.0,20.4,New,Card
+O20508,2024-06-13,P003,Paneer Wrap,Meals,9,180.0,110.0,17.77,Returning,Wallet
+O20877,2024-06-14,P007,Paneer Roll,Meals,1,170.0,100.0,3.75,Returning,Wallet
+O20883,2024-06-14,P009,Nachos,Snacks,1,130.0,70.0,21.03,Returning,Cash
+O20702,2024-06-14,P005,Cold Coffee,Beverages,7,140.0,70.0,8.71,New,Card
+O20551,2024-06-14,P003,Paneer Wrap,Meals,7,180.0,110.0,7.51,Returning,Cash
+O20387,2024-06-16,P003,Paneer Wrap,Meals,7,180.0,110.0,18.15,Returning,Card
+O20345,2024-06-17,P004,French Fries,Snacks,2,120.0,60.0,9.32,Returning,Card
+O20527,2024-06-18,P007,Paneer Roll,Meals,1,170.0,100.0,11.85,Returning,Wallet
+O20361,2024-06-18,P006,Iced Tea,Beverages,8,100.0,50.0,10.63,New,UPI
+O20162,2024-06-20,P010,Garlic Bread,Snacks,6,110.0,65.0,14.64,New,UPI
+O20449,2024-06-22,P001,Classic Veg Burger,Meals,1,150.0,90.0,10.66,Returning,Wallet
+O20603,2024-06-22,P005,Cold Coffee,Beverages,4,140.0,70.0,7.28,New,Wallet
+O20017,2024-06-23,P002,Veg Pizza,Meals,10,250.0,160.0,7.79,Returning,Cash
+O20458,2024-06-23,P003,Paneer Wrap,Meals,7,180.0,110.0,6.61,New,Card
+O20799,2024-06-23,P003,Paneer Wrap,Meals,6,180.0,110.0,,New,Card
+O20145,2024-06-25,P007,Paneer Roll,Meals,3,170.0,100.0,20.03,Returning,Wallet
+O20705,2024-06-26,P009,Nachos,Snacks,10,130.0,70.0,10.92,New,Card
+O20156,2024-06-26,P005,Cold Coffee,Snacks,7,140.0,70.0,20.03,New,Wallet
+O20167,2024-06-28,P010,Garlic Bread,Meals,10,110.0,65.0,18.97,Returning,Cash
+O20047,2024-06-28,P009,Nachos,Snacks,9,130.0,70.0,14.76,Returning,Card
+O20028,2024-06-30,P009,Nachos,Snacks,1,130.0,70.0,5.0,Returning,Card
+O20742,2024-06-30,P001,Classic Veg Burger,Beverages,1,150.0,90.0,,Returning,Cash
+O21013,2024-06-30,P004,French Fries,Snacks,7,120.0,60.0,2.13,Returning,Cash
+O20395,2024-06-30,P010,Garlic Bread,Snacks,6,110.0,65.0,18.41,Returning,Card
+O20686,2024-07-01,P003,Paneer Wrap,Meals,5,180.0,110.0,3.13,Returning,UPI
+O20150,2024-07-02,P003,Paneer Wrap,Meals,7,180.0,110.0,4.86,New,Card
+O20212,2024-07-02,P003,Paneer Wrap,Meals,6,180.0,110.0,8.53,New,Wallet
+O20945,2024-07-03,P004,French Fries,Snacks,9,120.0,60.0,2.02,Returning,UPI
+O20784,2024-07-03,P006,Iced Tea,Beverages,9,100.0,50.0,9.76,New,Cash
+O20032,2024-07-04,P001,Classic Veg Burger,Meals,1,150.0,90.0,5.68,Returning,UPI
+O20858,2024-07-05,P006,Iced Tea,Beverages,1,100.0,50.0,17.67,Returning,Card
+O20959,2024-07-05,P005,Cold Coffee,Beverages,8,140.0,70.0,1.17,Returning,Card
+O21044,2024-07-06,P005,Cold Coffee,Beverages,7,140.0,70.0,4.47,New,Cash
+O20862,2024-07-06,P001,Classic Veg Burger,Meals,6,150.0,90.0,0.17,New,Wallet
+O20798,2024-07-07,P002,Veg Pizza,Meals,2,250.0,160.0,,Returning,Cash
+O20468,2024-07-08,P010,Garlic Bread,Snacks,4,110.0,65.0,11.58,New,Wallet
+O20391,2024-07-08,P010,Garlic Bread,Snacks,9,110.0,65.0,,New,Card
+O20177,2024-07-09,P004,French Fries,Snacks,2,120.0,60.0,,Returning,Cash
+O21053,2024-07-10,P009,Nachos,Snacks,1,130.0,70.0,7.1,New,Card
+O20484,2024-07-10,P006,Iced Tea,Beverages,6,100.0,50.0,4.61,New,Card
+O20452,2024-07-11,P006,Iced Tea,Beverages,6,100.0,50.0,15.17,Returning,Cash
+O20607,2024-07-11,P003,Paneer Wrap,Meals,4,180.0,110.0,22.69,New,Wallet
+O20081,2024-07-11,P003,Paneer Wrap,Meals,4,180.0,110.0,3.85,New,UPI
+O20807,2024-07-12,P004,French Fries,Snacks,6,120.0,60.0,8.76,Returning,Cash
+O20801,2024-07-12,P007,Paneer Roll,Meals,2,170.0,100.0,24.4,New,Wallet
+O20788,2024-07-13,P002,Veg Pizza,Meals,2,250.0,160.0,23.94,New,Cash
+O20473,2024-07-14,P006,Iced Tea,Beverages,4,100.0,50.0,15.53,New,UPI
+O20098,2024-07-16,P007,Paneer Roll,Meals,4,170.0,100.0,20.2,Returning,Wallet
+O20427,2024-07-16,P002,Veg Pizza,Meals,9,250.0,160.0,6.92,Returning,Cash
+O20450,2024-07-19,P002,Veg Pizza,Meals,8,250.0,160.0,12.75,Returning,UPI
+O20570,2024-07-19,P010,Garlic Bread,Snacks,1,110.0,65.0,1.37,Returning,Cash
+O20129,2024-07-19,P008,Chocolate Shake,Beverages,6,160.0,85.0,16.96,New,UPI
+O20942,2024-07-20,P010,Garlic Bread,Snacks,8,110.0,65.0,14.04,New,UPI
+O20593,2024-07-20,P007,Paneer Roll,Meals,1,170.0,100.0,18.31,New,UPI
+O20796,2024-07-23,P008,Chocolate Shake,Beverages,1,160.0,85.0,5.43,New,Wallet
+O20859,2024-07-24,P001,Classic Veg Burger,Meals,7,150.0,90.0,11.22,New,Card
+O20480,2024-07-25,P003,Paneer Wrap,Meals,2,180.0,110.0,14.07,Returning,Cash
+O20439,2024-07-25,P005,Cold Coffee,Beverages,9,140.0,70.0,3.79,Returning,Card
+O21036,2024-07-25,P003,Paneer Wrap,Meals,10,180.0,110.0,9.69,Returning,UPI
+O20007,2024-07-26,P010,Garlic Bread,Beverages,8,110.0,65.0,20.61,Returning,Card
+O20790,2024-07-26,P005,Cold Coffee,Beverages,9,140.0,70.0,0.78,New,Wallet
+O20610,2024-07-27,P007,Paneer Roll,Meals,9,170.0,100.0,,New,Cash
+O20200,2024-07-27,P003,Paneer Wrap,Meals,4,180.0,110.0,8.9,New,Card
+O20657,2024-07-27,P005,Cold Coffee,Beverages,2,140.0,70.0,17.87,Returning,UPI
+O20224,2024-07-28,P010,Garlic Bread,Snacks,6,110.0,65.0,2.34,New,Card
+O20132,2024-07-29,P007,Paneer Roll,Meals,4,170.0,100.0,8.83,Returning,UPI
+O20088,2024-07-29,P001,Classic Veg Burger,Meals,7,150.0,90.0,0.79,New,Card
+O20275,2024-07-30,P010,Garlic Bread,Snacks,7,110.0,65.0,,Returning,Wallet
+O20525,2024-07-30,P009,Nachos,Snacks,6,130.0,70.0,5.76,Returning,Cash
+O20719,2024-08-01,P009,Nachos,Snacks,7,130.0,70.0,1.19,Returning,UPI
+O20433,2024-08-02,P001,Classic Veg Burger,Meals,1,150.0,90.0,16.9,New,Wallet
+O20795,2024-08-03,P008,Chocolate Shake,Beverages,9,160.0,85.0,5.55,New,Wallet
+O21047,2024-08-03,P010,Garlic Bread,Snacks,10,110.0,65.0,10.12,New,Wallet
+O21017,2024-08-03,P002,Veg Pizza,Meals,4,250.0,160.0,3.41,Returning,Wallet
+O20078,2024-08-04,P008,Chocolate Shake,Beverages,4,160.0,85.0,19.44,Returning,Card
+O20560,2024-08-04,P004,French Fries,Snacks,8,120.0,60.0,13.09,New,Wallet
+O20793,2024-08-04,P009,Nachos,Snacks,1,130.0,70.0,5.19,New,Wallet
+O20222,2024-08-06,P005,Cold Coffee,Beverages,10,140.0,70.0,,New,UPI
+O20322,2024-08-06,P006,Iced Tea,Beverages,9,100.0,50.0,4.0,Returning,Card
+O20697,2024-08-07,P009,Nachos,Meals,6,130.0,70.0,8.13,Returning,Card
+O20223,2024-08-08,P010,Garlic Bread,Meals,6,110.0,65.0,23.98,New,Card
+O20647,2024-08-10,P010,Garlic Bread,Snacks,7,110.0,65.0,8.9,New,UPI
+O20902,2024-08-10,P009,Nachos,Snacks,5,130.0,70.0,,New,Card
+O20183,2024-08-10,P001,Classic Veg Burger,Meals,10,150.0,90.0,22.15,New,Card
+O20213,2024-08-11,P009,Nachos,Snacks,4,130.0,70.0,6.13,Returning,Card
+O20675,2024-08-11,P010,Garlic Bread,Snacks,4,110.0,65.0,5.78,Returning,UPI
+O20506,2024-08-13,P006,Iced Tea,Beverages,7,100.0,50.0,21.0,Returning,Wallet
+O20627,2024-08-14,P010,Garlic Bread,Beverages,5,110.0,65.0,22.76,Returning,Wallet
+O20643,2024-08-14,P001,Classic Veg Burger,Meals,3,150.0,90.0,0.56,Returning,Card
+O20485,2024-08-15,P002,Veg Pizza,Meals,9,250.0,160.0,,Returning,Cash
+O20455,2024-08-15,P002,Veg Pizza,Meals,6,250.0,160.0,13.28,New,Wallet
+O20972,2024-08-15,P002,Veg Pizza,Meals,6,250.0,160.0,19.02,New,Wallet
+O20236,2024-08-16,P002,Veg Pizza,Meals,3,250.0,160.0,22.31,Returning,Wallet
+O20461,2024-08-16,P009,Nachos,Snacks,9,130.0,70.0,6.04,Returning,UPI
+O20219,2024-08-16,P004,French Fries,Snacks,4,120.0,60.0,23.09,New,Cash
+O20031,2024-08-17,P001,Classic Veg Burger,Meals,8,150.0,90.0,,Returning,Wallet
+O20867,2024-08-17,P004,French Fries,Snacks,6,120.0,60.0,6.13,Returning,Card
+O20965,2024-08-18,P008,Chocolate Shake,Beverages,6,160.0,85.0,6.99,Returning,UPI
+O20775,2024-08-18,P010,Garlic Bread,Snacks,8,110.0,65.0,12.18,Returning,Card
+O20134,2024-08-19,P009,Nachos,Snacks,9,130.0,70.0,0.71,New,UPI
+O20958,2024-08-19,P002,Veg Pizza,Meals,10,250.0,160.0,,Returning,UPI
+O20621,2024-08-20,P008,Chocolate Shake,Beverages,10,160.0,85.0,17.3,Returning,Wallet
+O20347,2024-08-20,P009,Nachos,Snacks,7,130.0,70.0,5.62,Returning,UPI
+O20160,2024-08-20,P003,Paneer Wrap,Meals,3,180.0,110.0,10.24,Returning,UPI
+O20923,2024-08-21,P010,Garlic Bread,Snacks,10,110.0,65.0,8.45,New,Card
+O20471,2024-08-22,P001,Classic Veg Burger,Meals,6,150.0,90.0,,New,UPI
+O20822,2024-08-23,P008,Chocolate Shake,Beverages,5,160.0,85.0,17.34,Returning,UPI
+O20488,2024-08-23,P003,Paneer Wrap,Meals,1,180.0,110.0,4.67,Returning,Wallet
+O20624,2024-08-24,P009,Nachos,Snacks,7,130.0,70.0,,New,Card
+O20456,2024-08-24,P003,Paneer Wrap,Meals,10,180.0,110.0,6.43,Returning,Wallet
+O20174,2024-08-25,P008,Chocolate Shake,Beverages,2,160.0,85.0,3.55,Returning,Card
+O20490,2024-08-25,P006,Iced Tea,Beverages,1,100.0,50.0,15.24,New,Card
+O20520,2024-08-26,P004,French Fries,Snacks,2,120.0,60.0,0.8,New,Cash
+O20030,2024-08-26,P005,Cold Coffee,Beverages,5,140.0,70.0,23.51,Returning,Wallet
+O20406,2024-08-27,P006,Iced Tea,Beverages,9,100.0,50.0,14.31,Returning,Cash
+O20277,2024-08-27,P005,Cold Coffee,Beverages,4,140.0,70.0,19.27,Returning,Card
+O20562,2024-08-28,P007,Paneer Roll,Meals,3,170.0,100.0,3.89,Returning,Wallet
+O20816,2024-08-28,P003,Paneer Wrap,Meals,4,180.0,110.0,12.58,New,UPI
+O20266,2024-08-30,P005,Cold Coffee,Beverages,9,140.0,70.0,11.19,Returning,Wallet
+O20948,2024-08-30,P003,Paneer Wrap,Meals,4,180.0,110.0,14.89,Returning,UPI
+O21033,2024-08-30,P008,Chocolate Shake,Beverages,1,160.0,85.0,,Returning,UPI
+O20243,2024-08-31,P009,Nachos,Snacks,1,130.0,70.0,6.63,New,Card
+O20706,2024-09-01,P007,Paneer Roll,Meals,4,170.0,100.0,4.43,New,UPI
+O20109,2024-09-01,P006,Iced Tea,Beverages,3,100.0,50.0,1.71,Returning,UPI
+O21022,2024-09-02,P002,Veg Pizza,Meals,5,250.0,160.0,12.36,New,Wallet
+O20166,2024-09-02,P008,Chocolate Shake,Beverages,5,160.0,85.0,3.11,New,Cash
+O20124,2024-09-03,P008,Chocolate Shake,Beverages,9,160.0,85.0,2.6,New,Cash
+O20970,2024-09-03,P002,Veg Pizza,Meals,7,250.0,160.0,23.66,New,Wallet
+O20687,2024-09-04,P003,Paneer Wrap,Meals,4,180.0,110.0,,New,Wallet
+O20239,2024-09-05,P005,Cold Coffee,Beverages,10,140.0,70.0,9.3,New,Card
+O20838,2024-09-07,P009,Nachos,Snacks,4,130.0,70.0,18.48,Returning,Card
+O20234,2024-09-07,P008,Chocolate Shake,Beverages,3,160.0,85.0,15.38,New,UPI
+O20757,2024-09-07,P009,Nachos,Snacks,7,130.0,70.0,19.19,Returning,UPI
+O20180,2024-09-08,P002,Veg Pizza,Meals,5,250.0,160.0,8.25,Returning,Card
+O20696,2024-09-09,P002,Veg Pizza,Meals,7,250.0,160.0,12.86,Returning,Card
+O20324,2024-09-09,P001,Classic Veg Burger,Meals,9,150.0,90.0,12.8,Returning,Wallet
+O20510,2024-09-10,P007,Paneer Roll,Meals,10,170.0,100.0,9.1,Returning,UPI
+O20186,2024-09-10,P006,Iced Tea,Snacks,3,100.0,50.0,17.44,Returning,UPI
+O20210,2024-09-10,P006,Iced Tea,Beverages,8,100.0,50.0,19.64,New,UPI
+O21021,2024-09-13,P007,Paneer Roll,Meals,8,170.0,100.0,6.0,New,Cash
+O20087,2024-09-13,P004,French Fries,Snacks,4,120.0,60.0,7.1,Returning,Wallet
+O20637,2024-09-14,P010,Garlic Bread,Snacks,5,110.0,65.0,14.86,New,UPI
+O20922,2024-09-14,P005,Cold Coffee,Beverages,3,140.0,70.0,2.74,New,Wallet
+O20721,2024-09-15,P009,Nachos,Snacks,9,130.0,70.0,19.08,New,Cash
+O21064,2024-09-16,P008,Chocolate Shake,Beverages,3,160.0,85.0,17.45,Returning,Wallet
+O20774,2024-09-18,P010,Garlic Bread,Snacks,10,110.0,65.0,15.17,Returning,Cash
+O20957,2024-09-18,P005,Cold Coffee,Beverages,7,140.0,70.0,16.79,New,Wallet
+O20346,2024-09-19,P010,Garlic Bread,Snacks,8,110.0,65.0,19.65,Returning,Card
+O20421,2024-09-19,P001,Classic Veg Burger,Meals,10,150.0,90.0,,Returning,Card
+O20903,2024-09-19,P005,Cold Coffee,Beverages,1,140.0,70.0,10.87,Returning,Cash
+O20608,2024-09-20,P009,Nachos,Snacks,4,130.0,70.0,17.62,New,Wallet
+O20866,2024-09-21,P006,Iced Tea,Beverages,8,100.0,50.0,18.01,Returning,Wallet
+O20891,2024-09-21,P006,Iced Tea,Beverages,5,100.0,50.0,21.29,New,Wallet
+O20583,2024-09-21,P001,Classic Veg Burger,Meals,10,150.0,90.0,14.59,Returning,Cash
+O20537,2024-09-23,P002,Veg Pizza,Meals,4,250.0,160.0,13.97,Returning,Cash
+O20086,2024-09-24,P004,French Fries,Snacks,2,120.0,60.0,1.26,Returning,Wallet
+O20604,2024-09-24,P007,Paneer Roll,Meals,2,170.0,100.0,3.74,Returning,Card
+O20272,2024-09-24,P008,Chocolate Shake,Beverages,10,160.0,85.0,12.58,Returning,Cash
+O20792,2024-09-25,P002,Veg Pizza,Meals,8,250.0,160.0,10.14,New,Card
+O20773,2024-09-25,P004,French Fries,Snacks,2,120.0,60.0,,Returning,Wallet
+O20097,2024-09-25,P002,Veg Pizza,Meals,7,250.0,160.0,15.21,Returning,UPI
+O20734,2024-09-25,P009,Nachos,Snacks,8,130.0,70.0,22.53,Returning,Wallet
+O20440,2024-09-26,P008,Chocolate Shake,Beverages,8,160.0,85.0,10.06,Returning,UPI
+O20756,2024-09-27,P003,Paneer Wrap,Meals,10,180.0,110.0,14.26,Returning,Cash
+O20363,2024-09-27,P006,Iced Tea,Beverages,5,100.0,50.0,4.89,New,Cash
+O20308,2024-09-28,P010,Garlic Bread,Snacks,5,110.0,65.0,8.17,New,Cash
+O20103,2024-09-29,P010,Garlic Bread,Meals,3,110.0,65.0,,Returning,Card
+O20993,2024-09-29,P009,Nachos,Snacks,1,130.0,70.0,19.7,New,UPI
+O21052,2024-09-30,P004,French Fries,Snacks,4,120.0,60.0,15.66,Returning,Card
+O20319,2024-09-30,P001,Classic Veg Burger,Meals,8,150.0,90.0,2.22,New,Wallet
+O20340,2024-10-01,P006,Iced Tea,Beverages,5,100.0,50.0,7.61,Returning,Cash
+O20880,2024-10-01,P009,Nachos,Snacks,7,130.0,70.0,20.82,New,UPI
+O20780,2024-10-02,P008,Chocolate Shake,Beverages,2,160.0,85.0,22.74,Returning,Wallet
+O20907,2024-10-02,P002,Veg Pizza,Meals,3,250.0,160.0,24.99,Returning,UPI
+O20066,2024-10-05,P006,Iced Tea,Beverages,2,100.0,50.0,,Returning,UPI
+O20318,2024-10-05,P003,Paneer Wrap,Meals,3,180.0,110.0,1.48,New,Card
+O20962,2024-10-06,P007,Paneer Roll,Meals,5,170.0,100.0,6.38,New,Card
+O20713,2024-10-06,P002,Veg Pizza,Meals,6,250.0,160.0,1.17,New,Cash
+O20279,2024-10-06,P008,Chocolate Shake,Beverages,9,160.0,85.0,21.96,New,UPI
+O20717,2024-10-07,P008,Chocolate Shake,Beverages,2,160.0,85.0,10.82,New,UPI
+O21061,2024-10-08,P001,Classic Veg Burger,Meals,1,150.0,90.0,6.14,Returning,Card
+O20169,2024-10-08,P002,Veg Pizza,Meals,6,250.0,160.0,10.21,Returning,UPI
+O20800,2024-10-09,P009,Nachos,Snacks,1,130.0,70.0,15.3,Returning,Card
+O20436,2024-10-09,P008,Chocolate Shake,Beverages,3,160.0,85.0,17.47,Returning,Wallet
+O20197,2024-10-12,P008,Chocolate Shake,Beverages,4,160.0,85.0,24.46,New,UPI
+O20670,2024-10-12,P003,Paneer Wrap,Meals,7,180.0,110.0,22.58,New,UPI
+O20416,2024-10-13,P003,Paneer Wrap,Meals,9,180.0,110.0,8.64,New,Cash
+O20651,2024-10-13,P008,Chocolate Shake,Beverages,9,160.0,85.0,,Returning,Wallet
+O20879,2024-10-14,P007,Paneer Roll,Meals,1,170.0,100.0,4.44,New,UPI
+O20821,2024-10-15,P002,Veg Pizza,Meals,8,250.0,160.0,6.98,Returning,Cash
+O20426,2024-10-15,P008,Chocolate Shake,Beverages,8,160.0,85.0,,New,Cash
+O20408,2024-10-18,P004,French Fries,Snacks,7,120.0,60.0,16.03,New,Cash
+O20709,2024-10-18,P004,French Fries,Snacks,10,120.0,60.0,15.71,Returning,UPI
+O20901,2024-10-18,P004,French Fries,Snacks,5,120.0,60.0,9.16,New,UPI
+O20102,2024-10-19,P006,Iced Tea,Beverages,10,100.0,50.0,10.16,New,Wallet
+O20437,2024-10-21,P002,Veg Pizza,Meals,9,250.0,160.0,3.5,New,UPI
+O20653,2024-10-21,P002,Veg Pizza,Meals,7,250.0,160.0,21.94,Returning,Wallet
+O20249,2024-10-21,P004,French Fries,Snacks,9,120.0,60.0,20.75,Returning,Card
+O20724,2024-10-21,P001,Classic Veg Burger,Meals,4,150.0,90.0,10.66,Returning,Card
+O20664,2024-10-22,P007,Paneer Roll,Meals,7,170.0,100.0,,Returning,UPI
+O20411,2024-10-22,P002,Veg Pizza,Meals,1,250.0,160.0,23.9,Returning,Wallet
+O20698,2024-10-23,P002,Veg Pizza,Meals,6,250.0,160.0,2.71,Returning,Card
+O20494,2024-10-23,P010,Garlic Bread,Snacks,4,110.0,65.0,,New,Cash
+O20678,2024-10-24,P006,Iced Tea,Beverages,7,100.0,50.0,5.77,New,UPI
+O20782,2024-10-24,P009,Nachos,Snacks,4,130.0,70.0,13.11,New,Cash
+O20855,2024-10-24,P005,Cold Coffee,Beverages,5,140.0,70.0,8.84,New,Wallet
+O20323,2024-10-25,P005,Cold Coffee,Beverages,5,140.0,70.0,,Returning,Wallet
+O21001,2024-10-26,P002,Veg Pizza,Meals,10,250.0,160.0,14.86,New,Cash
+O20350,2024-10-26,P004,French Fries,Snacks,2,120.0,60.0,4.05,Returning,Card
+O20428,2024-10-27,P007,Paneer Roll,Meals,5,170.0,100.0,10.33,Returning,Wallet
+O20251,2024-10-27,P002,Veg Pizza,Meals,6,250.0,160.0,15.58,New,UPI
+O20498,2024-10-28,P009,Nachos,Snacks,3,130.0,70.0,7.97,New,UPI
+O20868,2024-10-29,P006,Iced Tea,Beverages,1,100.0,50.0,5.82,New,Cash
+O20026,2024-10-29,P008,Chocolate Shake,Beverages,2,160.0,85.0,20.6,New,Cash
+O21096,2024-11-01,P003,Paneer Wrap,Meals,3,180.0,110.0,17.3,New,Wallet
+O21020,2024-11-02,P006,Iced Tea,Beverages,4,100.0,50.0,3.71,Returning,UPI
+O21099,2024-11-02,P006,Iced Tea,Beverages,4,100.0,50.0,5.6,New,Wallet
+O20368,2024-11-03,P009,Nachos,Snacks,10,130.0,70.0,8.74,New,Card
+O20982,2024-11-03,P010,Garlic Bread,Snacks,8,110.0,65.0,,Returning,UPI
+O20783,2024-11-03,P003,Paneer Wrap,Meals,1,180.0,110.0,9.54,New,Wallet
+O20011,2024-11-04,P003,Paneer Wrap,Meals,2,180.0,110.0,13.64,Returning,Card
+O20053,2024-11-04,P007,Paneer Roll,Meals,10,170.0,100.0,24.29,Returning,Cash
+O20529,2024-11-04,P005,Cold Coffee,Beverages,7,140.0,70.0,1.64,New,Wallet
+O20273,2024-11-05,P004,French Fries,Snacks,7,120.0,60.0,,Returning,Card
+O20046,2024-11-05,P003,Paneer Wrap,Meals,1,180.0,110.0,23.01,Returning,Card
+O20802,2024-11-08,P010,Garlic Bread,Snacks,3,110.0,65.0,11.74,Returning,Cash
+O20898,2024-11-09,P003,Paneer Wrap,Meals,1,180.0,110.0,11.81,Returning,Cash
+O20549,2024-11-09,P004,French Fries,Snacks,6,120.0,60.0,7.2,New,Cash
+O20185,2024-11-09,P003,Paneer Wrap,Meals,8,180.0,110.0,17.91,New,Wallet
+O20605,2024-11-10,P010,Garlic Bread,Snacks,8,110.0,65.0,4.46,New,Wallet
+O20331,2024-11-11,P001,Classic Veg Burger,Meals,8,150.0,90.0,14.84,New,UPI
+O20444,2024-11-11,P002,Veg Pizza,Meals,2,250.0,160.0,13.49,New,UPI
+O20096,2024-11-13,P003,Paneer Wrap,Meals,8,180.0,110.0,17.81,New,Cash
+O21034,2024-11-13,P004,French Fries,Snacks,3,120.0,60.0,,New,Wallet
+O20013,2024-11-13,P009,Nachos,Snacks,9,130.0,70.0,,New,Wallet
+O20302,2024-11-14,P008,Chocolate Shake,Beverages,7,160.0,85.0,23.59,Returning,Cash
+O20760,2024-11-15,P007,Paneer Roll,Meals,4,170.0,100.0,23.61,Returning,Wallet
+O20745,2024-11-15,P003,Paneer Wrap,Meals,6,180.0,110.0,17.95,Returning,Cash
+O20730,2024-11-15,P004,French Fries,Snacks,6,120.0,60.0,3.59,Returning,UPI
+O20418,2024-11-19,P008,Chocolate Shake,Beverages,10,160.0,85.0,19.67,Returning,Card
+O20699,2024-11-20,P010,Garlic Bread,Snacks,8,110.0,65.0,18.37,Returning,Cash
+O20276,2024-11-20,P006,Iced Tea,Beverages,3,100.0,50.0,11.25,New,Card
+O20524,2024-11-20,P002,Veg Pizza,Meals,2,250.0,160.0,20.74,New,Card
+O20826,2024-11-21,P005,Cold Coffee,Beverages,7,140.0,70.0,7.84,Returning,UPI
+O21005,2024-11-22,P001,Classic Veg Burger,Meals,9,150.0,90.0,,Returning,UPI
+O20977,2024-11-22,P008,Chocolate Shake,Beverages,7,160.0,85.0,0.62,New,UPI
+O20262,2024-11-23,P005,Cold Coffee,Beverages,4,140.0,70.0,,Returning,Card
+O20425,2024-11-23,P005,Cold Coffee,Beverages,1,140.0,70.0,15.9,New,Card
+O20577,2024-11-24,P007,Paneer Roll,Meals,9,170.0,100.0,8.04,Returning,Wallet
+O20673,2024-11-24,P005,Cold Coffee,Beverages,8,140.0,70.0,,New,Card
+O20263,2024-11-25,P010,Garlic Bread,Snacks,6,110.0,65.0,24.58,Returning,UPI
+O20519,2024-11-25,P009,Nachos,Snacks,4,130.0,70.0,14.77,Returning,Wallet
+O20960,2024-11-26,P009,Nachos,Snacks,3,130.0,70.0,18.17,Returning,Cash
+O21025,2024-11-26,P010,Garlic Bread,Snacks,6,110.0,65.0,10.74,New,Wallet
+O20359,2024-11-27,P002,Veg Pizza,Meals,5,250.0,160.0,11.0,Returning,Cash
+O20371,2024-11-28,P005,Cold Coffee,Beverages,9,140.0,70.0,22.12,New,Card
+O20595,2024-11-29,P010,Garlic Bread,Snacks,2,110.0,65.0,12.55,New,Cash
+O20445,2024-11-29,P004,French Fries,Snacks,1,120.0,60.0,,New,UPI
+O20981,2024-11-30,P010,Garlic Bread,Snacks,1,110.0,65.0,3.44,Returning,UPI
+O20680,2024-11-30,P006,Iced Tea,Beverages,7,100.0,50.0,21.92,Returning,Wallet
+O21079,2024-12-01,P005,Cold Coffee,Beverages,1,140.0,70.0,24.31,Returning,Wallet
+O20465,2024-12-01,P001,Classic Veg Burger,Meals,5,150.0,90.0,23.99,Returning,Wallet
+O20953,2024-12-02,P002,Veg Pizza,Meals,8,250.0,160.0,5.01,New,Wallet
+O20390,2024-12-02,P001,Classic Veg Burger,Meals,10,150.0,90.0,16.06,Returning,Card
+O20646,2024-12-03,P007,Paneer Roll,Meals,7,170.0,100.0,22.37,New,Wallet
+O21076,2024-12-03,P010,Garlic Bread,Beverages,9,110.0,65.0,10.44,Returning,Cash
+O20516,2024-12-04,P001,Classic Veg Burger,Meals,2,150.0,90.0,12.74,Returning,Wallet
+O20913,2024-12-05,P006,Iced Tea,Beverages,1,100.0,50.0,24.27,Returning,Wallet
+O20787,2024-12-05,P006,Iced Tea,Beverages,7,100.0,50.0,22.55,New,Card
+O20785,2024-12-06,P001,Classic Veg Burger,Meals,1,150.0,90.0,11.87,Returning,Wallet
+O20397,2024-12-06,P003,Paneer Wrap,Meals,10,180.0,110.0,,New,Cash
+O20111,2024-12-07,P002,Veg Pizza,Meals,3,250.0,160.0,16.05,Returning,Cash
+O20824,2024-12-08,P010,Garlic Bread,Snacks,7,110.0,65.0,18.0,New,Card
+O20791,2024-12-08,P001,Classic Veg Burger,Meals,1,150.0,90.0,,Returning,Wallet
+O20214,2024-12-08,P002,Veg Pizza,Meals,6,250.0,160.0,20.46,New,Cash
+O21030,2024-12-09,P005,Cold Coffee,Beverages,8,140.0,70.0,14.16,Returning,UPI
+O20175,2024-12-10,P001,Classic Veg Burger,Meals,7,150.0,90.0,4.74,Returning,Cash
+O20220,2024-12-11,P010,Garlic Bread,Snacks,2,110.0,65.0,,Returning,Cash
+O20367,2024-12-11,P001,Classic Veg Burger,Meals,3,150.0,90.0,,New,Card
+O20041,2024-12-13,P007,Paneer Roll,Meals,10,170.0,100.0,18.94,New,Wallet
+O20636,2024-12-13,P005,Cold Coffee,Beverages,5,140.0,70.0,22.59,New,Card
+O20956,2024-12-14,P008,Chocolate Shake,Beverages,8,160.0,85.0,19.22,Returning,Wallet
+O21037,2024-12-14,P002,Veg Pizza,Meals,1,250.0,160.0,4.06,Returning,Card
+O20986,2024-12-15,P007,Paneer Roll,Meals,7,170.0,100.0,19.59,New,Cash
+O20771,2024-12-16,P001,Classic Veg Burger,Meals,6,150.0,90.0,5.95,New,UPI
+O20407,2024-12-17,P009,Nachos,Snacks,1,130.0,70.0,10.79,New,Wallet
+O20517,2024-12-17,P004,French Fries,Beverages,2,120.0,60.0,21.11,Returning,Wallet
+O20313,2024-12-17,P008,Chocolate Shake,Beverages,7,160.0,85.0,,Returning,Cash
+O21035,2024-12-19,P006,Iced Tea,Beverages,1,100.0,50.0,9.62,New,Wallet
+O20099,2024-12-20,P002,Veg Pizza,Meals,8,250.0,160.0,5.72,Returning,UPI
+O20270,2024-12-21,P002,Veg Pizza,Meals,1,250.0,160.0,13.67,Returning,UPI
+O20904,2024-12-22,P005,Cold Coffee,Beverages,10,140.0,70.0,20.69,Returning,Card
+O20876,2024-12-22,P003,Paneer Wrap,Meals,8,180.0,110.0,8.52,Returning,Card
+O20231,2024-12-23,P006,Iced Tea,Beverages,6,100.0,50.0,7.64,New,Cash
+O20244,2024-12-23,P004,French Fries,Snacks,10,120.0,60.0,24.08,New,UPI
+O20422,2024-12-24,P006,Iced Tea,Beverages,1,100.0,50.0,10.4,Returning,UPI
+O20015,2024-12-24,P006,Iced Tea,Beverages,5,100.0,50.0,20.98,New,Card
+O20050,2024-12-24,P008,Chocolate Shake,Beverages,5,160.0,85.0,8.15,New,Card
+O20503,2024-12-24,P002,Veg Pizza,Meals,4,250.0,160.0,13.57,New,Card
+O20987,2024-12-25,P004,French Fries,Snacks,3,120.0,60.0,4.37,New,Wallet
+O20600,2024-12-26,P004,French Fries,Snacks,10,120.0,60.0,18.0,Returning,Cash
+O20995,2024-12-26,P005,Cold Coffee,Beverages,3,140.0,70.0,21.26,Returning,UPI
+O20888,2024-12-27,P004,French Fries,Snacks,5,120.0,60.0,17.9,Returning,Card
+O20548,2024-12-28,P010,Garlic Bread,Snacks,5,110.0,65.0,14.62,Returning,Cash
+O20644,2024-12-29,P007,Paneer Roll,Meals,5,170.0,100.0,1.49,Returning,Card
+O20069,2024-12-30,P007,Paneer Roll,Meals,5,170.0,100.0,17.33,New,Cash
+O20726,2024-12-31,P005,Cold Coffee,Beverages,1,140.0,70.0,4.2,New,Cash
+O20695,2025-01-02,P007,Paneer Roll,Meals,10,170.0,100.0,20.41,Returning,Wallet
+O20884,2025-01-02,P009,Nachos,Snacks,8,130.0,70.0,1.17,Returning,Card
+O21011,2025-01-04,P010,Garlic Bread,Snacks,9,110.0,65.0,5.55,New,Wallet
+O20355,2025-01-04,P003,Paneer Wrap,Meals,9,180.0,110.0,11.67,Returning,Card
+O20385,2025-01-06,P004,French Fries,Snacks,4,120.0,60.0,7.98,Returning,UPI
+O20873,2025-01-06,P006,Iced Tea,Beverages,8,100.0,50.0,9.26,Returning,UPI
+O20681,2025-01-07,P002,Veg Pizza,Meals,6,250.0,160.0,,Returning,Wallet
+O20688,2025-01-07,P005,Cold Coffee,Beverages,5,140.0,70.0,11.38,Returning,Wallet
+O20747,2025-01-07,P010,Garlic Bread,Snacks,9,110.0,65.0,20.16,Returning,Wallet
+O20386,2025-01-08,P001,Classic Veg Burger,Meals,2,150.0,90.0,11.19,New,Wallet
+O20114,2025-01-08,P008,Chocolate Shake,Beverages,8,160.0,85.0,2.99,Returning,Cash
+O20606,2025-01-08,P001,Classic Veg Burger,Meals,4,150.0,90.0,13.57,New,UPI
+O20232,2025-01-09,P003,Paneer Wrap,Meals,5,180.0,110.0,12.44,Returning,Card
+O20550,2025-01-09,P008,Chocolate Shake,Beverages,4,160.0,85.0,6.62,Returning,Cash
+O20569,2025-01-10,P009,Nachos,Snacks,2,130.0,70.0,14.6,Returning,UPI
+O21029,2025-01-10,P002,Veg Pizza,Meals,6,250.0,160.0,4.02,New,Card
+O20042,2025-01-11,P004,French Fries,Snacks,9,120.0,60.0,5.75,Returning,Cash
+O20044,2025-01-11,P001,Classic Veg Burger,Meals,4,150.0,90.0,24.88,New,Card
+O20556,2025-01-13,P009,Nachos,Beverages,5,130.0,70.0,13.32,Returning,Wallet
+O21060,2025-01-14,P006,Iced Tea,Beverages,3,100.0,50.0,3.52,New,Card
+O20005,2025-01-15,P003,Paneer Wrap,Meals,10,180.0,110.0,15.24,New,Cash
+O20762,2025-01-17,P010,Garlic Bread,Snacks,2,110.0,65.0,17.15,New,Wallet
+O20943,2025-01-18,P010,Garlic Bread,Snacks,8,110.0,65.0,15.75,Returning,Cash
+O20691,2025-01-18,P003,Paneer Wrap,Meals,7,180.0,110.0,21.17,New,Cash
+O20690,2025-01-18,P001,Classic Veg Burger,Snacks,4,150.0,90.0,20.36,New,UPI
+O20967,2025-01-18,P004,French Fries,Snacks,8,120.0,60.0,10.62,Returning,Wallet
+O20038,2025-01-18,P007,Paneer Roll,Meals,7,170.0,100.0,1.65,Returning,Cash
+O20708,2025-01-18,P007,Paneer Roll,Meals,1,170.0,100.0,23.72,New,Wallet
+O20401,2025-01-18,P009,Nachos,Snacks,6,130.0,70.0,16.26,Returning,Card
+O20019,2025-01-18,P001,Classic Veg Burger,Meals,5,150.0,90.0,6.6,New,Card
+O20294,2025-01-19,P010,Garlic Bread,Snacks,1,110.0,65.0,12.89,Returning,Card
+O20227,2025-01-19,P007,Paneer Roll,Meals,7,170.0,100.0,16.7,Returning,Wallet
+O20622,2025-01-21,P006,Iced Tea,Beverages,5,100.0,50.0,16.32,Returning,UPI
+O20660,2025-01-21,P007,Paneer Roll,Meals,8,170.0,100.0,18.1,Returning,Card
+O20846,2025-01-22,P007,Paneer Roll,Meals,5,170.0,100.0,11.05,New,Wallet
+O20073,2025-01-22,P010,Garlic Bread,Snacks,1,110.0,65.0,3.04,Returning,UPI
+O20020,2025-01-23,P003,Paneer Wrap,Meals,5,180.0,110.0,8.71,New,UPI
+O20998,2025-01-23,P010,Garlic Bread,Snacks,9,110.0,65.0,16.2,New,Wallet
+O20062,2025-01-23,P002,Veg Pizza,Meals,3,250.0,160.0,20.93,Returning,Card
+O21015,2025-01-23,P001,Classic Veg Burger,Beverages,3,150.0,90.0,,Returning,Wallet
+O20198,2025-01-25,P005,Cold Coffee,Snacks,3,140.0,70.0,22.09,New,UPI
+O20935,2025-01-25,P004,French Fries,Snacks,1,120.0,60.0,0.59,New,Wallet
+O20483,2025-01-26,P010,Garlic Bread,Snacks,5,110.0,65.0,20.48,New,Card
+O20354,2025-01-29,P007,Paneer Roll,Meals,8,170.0,100.0,1.15,New,UPI
+O20564,2025-01-30,P009,Nachos,Snacks,8,130.0,70.0,13.52,Returning,Wallet
+O21063,2025-01-30,P004,French Fries,Snacks,8,120.0,60.0,22.23,New,Wallet
+O20841,2025-01-30,P004,French Fries,Snacks,4,120.0,60.0,15.0,New,Card
+O20105,2025-01-31,P006,Iced Tea,Beverages,4,100.0,50.0,12.67,New,Card
+O20142,2025-02-02,P001,Classic Veg Burger,Meals,9,150.0,90.0,9.96,New,Cash
+O21074,2025-02-02,P004,French Fries,Snacks,8,120.0,60.0,11.02,Returning,Wallet
+O20357,2025-02-02,P003,Paneer Wrap,Meals,2,180.0,110.0,17.6,Returning,Wallet
+O20666,2025-02-04,P001,Classic Veg Burger,Meals,10,150.0,90.0,17.32,New,Cash
+O20089,2025-02-04,P003,Paneer Wrap,Meals,8,180.0,110.0,21.95,New,Wallet
+O20924,2025-02-04,P009,Nachos,Snacks,10,130.0,70.0,2.39,New,UPI
+O20809,2025-02-04,P003,Paneer Wrap,Meals,1,180.0,110.0,3.43,Returning,Wallet
+O21070,2025-02-05,P006,Iced Tea,Beverages,1,100.0,50.0,18.94,New,Wallet
+O20594,2025-02-05,P010,Garlic Bread,Snacks,10,110.0,65.0,0.92,New,Wallet
+O20154,2025-02-05,P007,Paneer Roll,Meals,9,170.0,100.0,1.36,Returning,Wallet
+O20818,2025-02-06,P007,Paneer Roll,Meals,6,170.0,100.0,8.86,New,UPI
+O20592,2025-02-07,P002,Veg Pizza,Meals,5,250.0,160.0,14.78,New,Cash
+O20836,2025-02-07,P001,Classic Veg Burger,Meals,4,150.0,90.0,8.41,Returning,Wallet
+O20632,2025-02-08,P004,French Fries,Snacks,8,120.0,60.0,8.64,New,Card
+O20033,2025-02-09,P008,Chocolate Shake,Beverages,4,160.0,85.0,3.15,New,UPI
+O20100,2025-02-09,P009,Nachos,Snacks,9,130.0,70.0,,New,Card
+O20746,2025-02-09,P007,Paneer Roll,Meals,9,170.0,100.0,8.54,Returning,UPI
+O20832,2025-02-09,P008,Chocolate Shake,Beverages,10,160.0,85.0,19.63,Returning,Cash
+O20288,2025-02-09,P005,Cold Coffee,Beverages,4,140.0,70.0,12.27,New,Card
+O20555,2025-02-09,P001,Classic Veg Burger,Meals,6,150.0,90.0,4.3,Returning,Wallet
+O20732,2025-02-12,P010,Garlic Bread,Snacks,2,110.0,65.0,12.03,New,Card
+O20396,2025-02-12,P010,Garlic Bread,Snacks,6,110.0,65.0,11.0,Returning,Card
+O20812,2025-02-13,P008,Chocolate Shake,Beverages,2,160.0,85.0,8.44,New,Wallet
+O20188,2025-02-15,P007,Paneer Roll,Meals,6,170.0,100.0,7.73,New,Wallet
+O21077,2025-02-16,P002,Veg Pizza,Meals,9,250.0,160.0,13.21,New,UPI
+O20661,2025-02-16,P010,Garlic Bread,Snacks,2,110.0,65.0,2.36,Returning,UPI
+O20885,2025-02-17,P005,Cold Coffee,Beverages,4,140.0,70.0,9.6,Returning,UPI
+O20299,2025-02-19,P009,Nachos,Snacks,2,130.0,70.0,20.79,New,Cash
+O20189,2025-02-19,P006,Iced Tea,Beverages,7,100.0,50.0,6.54,New,Cash
+O20947,2025-02-20,P003,Paneer Wrap,Meals,2,180.0,110.0,12.2,New,UPI
+O20256,2025-02-21,P008,Chocolate Shake,Beverages,10,160.0,85.0,,New,Wallet
+O20674,2025-02-22,P009,Nachos,Snacks,1,130.0,70.0,17.27,New,Card
+O20563,2025-02-22,P008,Chocolate Shake,Beverages,5,160.0,85.0,4.83,New,Wallet
+O20126,2025-02-22,P002,Veg Pizza,Meals,8,250.0,160.0,6.7,Returning,UPI
+O20384,2025-02-22,P004,French Fries,Snacks,7,120.0,60.0,,Returning,UPI
+O20095,2025-02-23,P003,Paneer Wrap,Meals,5,180.0,110.0,0.96,Returning,Card
+O20652,2025-02-24,P006,Iced Tea,Beverages,8,100.0,50.0,22.29,Returning,UPI
+O20545,2025-02-25,P002,Veg Pizza,Meals,5,250.0,160.0,11.44,Returning,UPI
+O20360,2025-02-26,P003,Paneer Wrap,Meals,7,180.0,110.0,5.35,New,Wallet
+O20131,2025-02-27,P009,Nachos,Snacks,9,130.0,70.0,,Returning,Wallet
+O20370,2025-02-28,P004,French Fries,Snacks,4,120.0,60.0,11.65,Returning,UPI
+O20136,2025-02-28,P002,Veg Pizza,Meals,9,250.0,160.0,12.39,Returning,Wallet
+O20683,2025-02-28,P007,Paneer Roll,Meals,5,170.0,100.0,8.78,Returning,Card
+O20814,2025-03-01,P003,Paneer Wrap,Meals,10,180.0,110.0,19.6,Returning,Wallet
+O20207,2025-03-03,P002,Veg Pizza,Meals,5,250.0,160.0,17.97,New,Card
+O20486,2025-03-04,P008,Chocolate Shake,Beverages,2,160.0,85.0,,New,Card
+O20685,2025-03-04,P006,Iced Tea,Snacks,6,100.0,50.0,4.45,Returning,Wallet
+O20376,2025-03-05,P007,Paneer Roll,Meals,8,170.0,100.0,2.67,Returning,Cash
+O20538,2025-03-06,P008,Chocolate Shake,Beverages,4,160.0,85.0,1.19,Returning,Card
+O20914,2025-03-06,P009,Nachos,Snacks,2,130.0,70.0,2.41,Returning,UPI
+O20377,2025-03-06,P006,Iced Tea,Beverages,6,100.0,50.0,11.55,Returning,Cash
+O20663,2025-03-07,P002,Veg Pizza,Meals,4,250.0,160.0,21.79,New,Card
+O20225,2025-03-07,P005,Cold Coffee,Beverages,8,140.0,70.0,24.34,Returning,Wallet
+O20770,2025-03-07,P004,French Fries,Snacks,8,120.0,60.0,0.52,Returning,Cash
+O20003,2025-03-07,P004,French Fries,Snacks,6,120.0,60.0,8.34,Returning,Cash
+O20413,2025-03-08,P003,Paneer Wrap,Meals,1,180.0,110.0,9.91,Returning,Card
+O20966,2025-03-12,P003,Paneer Wrap,Meals,1,180.0,110.0,15.58,New,Card
+O20633,2025-03-13,P001,Classic Veg Burger,Meals,2,150.0,90.0,4.53,Returning,Card
+O20149,2025-03-14,P005,Cold Coffee,Meals,5,140.0,70.0,8.09,New,Cash
+O21051,2025-03-16,P005,Cold Coffee,Beverages,7,140.0,70.0,9.47,New,Wallet
+O20620,2025-03-16,P002,Veg Pizza,Meals,9,250.0,160.0,24.09,New,Cash
+O20171,2025-03-17,P004,French Fries,Snacks,5,120.0,60.0,,New,Wallet
+O20566,2025-03-17,P001,Classic Veg Burger,Meals,9,150.0,90.0,18.17,New,Card
+O20211,2025-03-17,P002,Veg Pizza,Meals,5,250.0,160.0,24.34,Returning,Card
+O20614,2025-03-18,P007,Paneer Roll,Meals,8,170.0,100.0,1.87,New,Card
+O20108,2025-03-19,P003,Paneer Wrap,Meals,5,180.0,110.0,8.45,Returning,UPI
+O20894,2025-03-21,P003,Paneer Wrap,Meals,7,180.0,110.0,23.65,New,Cash
+O21056,2025-03-22,P010,Garlic Bread,Snacks,3,110.0,65.0,2.62,Returning,Cash
+O20693,2025-03-24,P009,Nachos,Snacks,2,130.0,70.0,11.39,New,UPI
+O20419,2025-03-24,P006,Iced Tea,Beverages,3,100.0,50.0,6.53,New,Wallet
+O20882,2025-03-24,P007,Paneer Roll,Meals,5,170.0,100.0,8.87,Returning,Cash
+O21028,2025-03-25,P009,Nachos,Snacks,10,130.0,70.0,4.4,Returning,Cash
+O20375,2025-03-25,P003,Paneer Wrap,Meals,3,180.0,110.0,22.71,Returning,UPI
+O20470,2025-03-26,P002,Veg Pizza,Meals,9,250.0,160.0,9.95,New,Card
+O20191,2025-03-26,P003,Paneer Wrap,Meals,9,180.0,110.0,1.7,Returning,UPI
+O20492,2025-03-26,P007,Paneer Roll,Meals,7,170.0,100.0,10.51,New,Card
+O21093,2025-03-27,P008,Chocolate Shake,Snacks,1,160.0,85.0,22.75,New,Card
+O20004,2025-03-27,P010,Garlic Bread,Beverages,8,110.0,65.0,22.13,New,Card
+O20092,2025-03-28,P004,French Fries,Snacks,10,120.0,60.0,2.59,New,UPI
+O20748,2025-03-28,P007,Paneer Roll,Meals,6,170.0,100.0,23.72,New,Card
+O20554,2025-03-29,P010,Garlic Bread,Snacks,6,110.0,65.0,12.39,Returning,Card
+O20269,2025-03-29,P002,Veg Pizza,Meals,6,250.0,160.0,14.74,Returning,UPI
+O20543,2025-03-29,P005,Cold Coffee,Beverages,8,140.0,70.0,7.61,Returning,Wallet
+O20889,2025-03-30,P001,Classic Veg Burger,Meals,2,150.0,90.0,20.69,New,Cash
+O20626,2025-03-31,P008,Chocolate Shake,Beverages,9,160.0,85.0,0.38,New,Cash
+O20777,2025-03-31,P003,Paneer Wrap,Meals,8,180.0,110.0,24.43,New,Card
+O20700,2025-04-02,P010,Garlic Bread,Snacks,8,110.0,65.0,,Returning,Card
+O20741,2025-04-03,P007,Paneer Roll,Meals,1,170.0,100.0,15.17,Returning,Card
+O21024,2025-04-03,P004,French Fries,Meals,5,120.0,60.0,,Returning,Cash
+O20763,2025-04-03,P009,Nachos,Snacks,2,130.0,70.0,9.64,New,Cash
+O20672,2025-04-03,P003,Paneer Wrap,Meals,8,180.0,110.0,8.69,New,Wallet
+O20196,2025-04-03,P003,Paneer Wrap,Meals,1,180.0,110.0,9.37,Returning,Card
+O20753,2025-04-04,P006,Iced Tea,Beverages,1,100.0,50.0,16.28,New,Card
+O20399,2025-04-05,P002,Veg Pizza,Meals,5,250.0,160.0,24.06,New,Wallet
+O20649,2025-04-05,P003,Paneer Wrap,Meals,9,180.0,110.0,0.91,New,UPI
+O20892,2025-04-06,P010,Garlic Bread,Snacks,2,110.0,65.0,11.52,New,UPI
+O20618,2025-04-08,P001,Classic Veg Burger,Meals,10,150.0,90.0,5.73,New,Cash
+O20332,2025-04-08,P001,Classic Veg Burger,Meals,9,150.0,90.0,3.82,New,UPI
+O20122,2025-04-09,P010,Garlic Bread,Snacks,3,110.0,65.0,10.04,Returning,Card
+O21067,2025-04-10,P010,Garlic Bread,Snacks,7,110.0,65.0,2.17,Returning,Card
+O20018,2025-04-11,P001,Classic Veg Burger,Meals,5,150.0,90.0,19.21,New,UPI
+O20469,2025-04-11,P007,Paneer Roll,Meals,10,170.0,100.0,23.41,Returning,Card
+O20383,2025-04-11,P004,French Fries,Snacks,4,120.0,60.0,15.25,New,Cash
+O21026,2025-04-11,P002,Veg Pizza,Meals,3,250.0,160.0,15.29,Returning,Card
+O20689,2025-04-12,P001,Classic Veg Burger,Meals,1,150.0,90.0,13.08,New,Card
+O20199,2025-04-13,P003,Paneer Wrap,Meals,4,180.0,110.0,,New,UPI
+O20181,2025-04-13,P003,Paneer Wrap,Meals,9,180.0,110.0,20.24,Returning,Card
+O20326,2025-04-16,P004,French Fries,Snacks,3,120.0,60.0,13.98,New,UPI
+O20085,2025-04-16,P003,Paneer Wrap,Meals,7,180.0,110.0,,Returning,Cash
+O20328,2025-04-16,P001,Classic Veg Burger,Meals,5,150.0,90.0,19.82,Returning,Card
+O20254,2025-04-18,P001,Classic Veg Burger,Meals,10,150.0,90.0,7.94,Returning,Cash
+O20101,2025-04-18,P004,French Fries,Snacks,10,120.0,60.0,,Returning,Wallet
+O20195,2025-04-18,P008,Chocolate Shake,Beverages,4,160.0,85.0,23.58,Returning,Cash
+O20466,2025-04-18,P009,Nachos,Snacks,10,130.0,70.0,4.51,Returning,Cash
+O21098,2025-04-19,P010,Garlic Bread,Snacks,1,110.0,65.0,14.05,Returning,Cash
+O20312,2025-04-20,P006,Iced Tea,Beverages,8,100.0,50.0,6.06,New,Wallet
+O20579,2025-04-20,P008,Chocolate Shake,Beverages,5,160.0,85.0,9.72,New,Card
+O20002,2025-04-20,P003,Paneer Wrap,Meals,10,180.0,110.0,14.64,New,UPI
+O20404,2025-04-20,P002,Veg Pizza,Meals,7,250.0,160.0,11.96,Returning,UPI
+O20157,2025-04-20,P005,Cold Coffee,Beverages,4,140.0,70.0,2.69,New,UPI
+O20193,2025-04-22,P010,Garlic Bread,Snacks,4,110.0,65.0,11.67,Returning,Card
+O20973,2025-04-22,P005,Cold Coffee,Beverages,5,140.0,70.0,7.59,New,Card
+O20912,2025-04-23,P007,Paneer Roll,Meals,7,170.0,100.0,4.89,New,Wallet
+O20599,2025-04-24,P010,Garlic Bread,Snacks,3,110.0,65.0,12.42,Returning,Card
+O20127,2025-04-25,P004,French Fries,Snacks,6,120.0,60.0,14.92,New,UPI
+O20259,2025-04-25,P006,Iced Tea,Beverages,3,100.0,50.0,10.81,New,UPI
+O20749,2025-04-25,P008,Chocolate Shake,Beverages,5,160.0,85.0,23.23,Returning,Card
+O20613,2025-04-25,P010,Garlic Bread,Snacks,8,110.0,65.0,8.61,Returning,Cash
+O21073,2025-04-25,P010,Garlic Bread,Snacks,9,110.0,65.0,5.89,Returning,Card
+O20443,2025-04-26,P009,Nachos,Snacks,6,130.0,70.0,4.78,Returning,Wallet
+O21058,2025-04-27,P007,Paneer Roll,Meals,6,170.0,100.0,14.12,New,Wallet
+O20638,2025-04-27,P003,Paneer Wrap,Meals,7,180.0,110.0,11.65,New,Cash
+O20462,2025-04-29,P001,Classic Veg Burger,Meals,10,150.0,90.0,14.08,New,UPI
+O20037,2025-04-30,P003,Paneer Wrap,Meals,8,180.0,110.0,7.75,New,Wallet
+O20890,2025-04-30,P007,Paneer Roll,Meals,3,170.0,100.0,16.22,Returning,Cash
+O20896,2025-04-30,P001,Classic Veg Burger,Meals,4,150.0,90.0,1.38,Returning,Card
+O20937,2025-05-01,P001,Classic Veg Burger,Meals,2,150.0,90.0,3.19,Returning,Cash
+O20916,2025-05-03,P010,Garlic Bread,Snacks,3,110.0,65.0,8.86,New,UPI
+O20034,2025-05-04,P005,Cold Coffee,Beverages,3,140.0,70.0,0.1,Returning,Wallet
+O20451,2025-05-04,P001,Classic Veg Burger,Meals,3,150.0,90.0,12.47,Returning,Cash
+O20420,2025-05-06,P006,Iced Tea,Beverages,10,100.0,50.0,23.43,Returning,Card
+O20712,2025-05-06,P001,Classic Veg Burger,Meals,4,150.0,90.0,4.05,Returning,Wallet
+O20168,2025-05-07,P003,Paneer Wrap,Meals,5,180.0,110.0,13.48,New,Card
+O20161,2025-05-07,P010,Garlic Bread,Snacks,9,110.0,65.0,4.0,New,UPI
+O20071,2025-05-07,P009,Nachos,Snacks,2,130.0,70.0,17.1,Returning,Wallet
+O20179,2025-05-07,P009,Nachos,Snacks,7,130.0,70.0,18.98,New,Cash
+O21009,2025-05-07,P008,Chocolate Shake,Beverages,4,160.0,85.0,3.52,Returning,Wallet
+O20834,2025-05-07,P010,Garlic Bread,Snacks,7,110.0,65.0,7.16,New,Card
+O20528,2025-05-08,P006,Iced Tea,Beverages,10,100.0,50.0,8.24,Returning,Wallet
+O20533,2025-05-08,P010,Garlic Bread,Snacks,4,110.0,65.0,1.63,New,Cash
+O20991,2025-05-08,P002,Veg Pizza,Meals,8,250.0,160.0,23.99,New,Cash
+O20504,2025-05-10,P005,Cold Coffee,Beverages,5,140.0,70.0,9.5,New,Cash
+O20009,2025-05-10,P002,Veg Pizza,Meals,1,250.0,160.0,,New,Card
+O20536,2025-05-10,P006,Iced Tea,Beverages,5,100.0,50.0,1.86,New,UPI
+O20518,2025-05-10,P009,Nachos,Snacks,9,130.0,70.0,6.8,New,Card
+O20374,2025-05-11,P010,Garlic Bread,Snacks,10,110.0,65.0,,New,Cash
+O20330,2025-05-11,P006,Iced Tea,Beverages,4,100.0,50.0,12.91,Returning,Cash
+O20128,2025-05-12,P010,Garlic Bread,Snacks,8,110.0,65.0,24.15,Returning,Card
+O20949,2025-05-12,P003,Paneer Wrap,Meals,8,180.0,110.0,14.99,Returning,UPI
+O21050,2025-05-12,P008,Chocolate Shake,Beverages,10,160.0,85.0,23.71,New,UPI
+O20596,2025-05-12,P007,Paneer Roll,Meals,6,170.0,100.0,7.52,New,Cash
+O21080,2025-05-13,P010,Garlic Bread,Snacks,4,110.0,65.0,0.14,New,Cash
+O21007,2025-05-16,P007,Paneer Roll,Meals,9,170.0,100.0,13.09,Returning,UPI
+O20343,2025-05-16,P007,Paneer Roll,Meals,9,170.0,100.0,5.06,Returning,Wallet
+O20848,2025-05-18,P001,Classic Veg Burger,Meals,4,150.0,90.0,2.68,Returning,Card
+O20257,2025-05-18,P008,Chocolate Shake,Beverages,7,160.0,85.0,1.13,Returning,Card
+O20228,2025-05-20,P003,Paneer Wrap,Snacks,6,180.0,110.0,14.88,New,Card
+O20856,2025-05-20,P003,Paneer Wrap,Meals,5,180.0,110.0,9.33,Returning,Card
+O21091,2025-05-20,P008,Chocolate Shake,Beverages,8,160.0,85.0,24.09,Returning,Cash
+O20442,2025-05-21,P007,Paneer Roll,Meals,5,170.0,100.0,14.25,Returning,UPI
+O20153,2025-05-21,P001,Classic Veg Burger,Meals,2,150.0,90.0,18.05,Returning,Card
+O20513,2025-05-21,P002,Veg Pizza,Meals,1,250.0,160.0,23.46,Returning,Wallet
+O20311,2025-05-22,P002,Veg Pizza,Meals,7,250.0,160.0,2.07,Returning,Card
+O20648,2025-05-23,P004,French Fries,Snacks,3,120.0,60.0,11.74,New,Card
+O20574,2025-05-24,P002,Veg Pizza,Meals,6,250.0,160.0,3.31,Returning,Card
+O20487,2025-05-24,P010,Garlic Bread,Snacks,8,110.0,65.0,12.1,New,Card
+O20006,2025-05-25,P006,Iced Tea,Beverages,2,100.0,50.0,8.14,Returning,UPI
+O20828,2025-05-25,P001,Classic Veg Burger,Meals,8,150.0,90.0,22.17,New,Cash
+O21040,2025-05-26,P002,Veg Pizza,Meals,3,250.0,160.0,9.53,Returning,Cash
+O20083,2025-05-26,P006,Iced Tea,Beverages,4,100.0,50.0,10.36,New,Wallet
+O20218,2025-05-27,P005,Cold Coffee,Beverages,6,140.0,70.0,0.17,Returning,Card
+O20895,2025-05-28,P007,Paneer Roll,Meals,4,170.0,100.0,14.51,Returning,UPI
+O20997,2025-05-28,P005,Cold Coffee,Beverages,1,140.0,70.0,,Returning,Cash
+O20532,2025-05-28,P010,Garlic Bread,Snacks,9,110.0,65.0,4.03,Returning,UPI
+O20875,2025-05-30,P004,French Fries,Snacks,10,120.0,60.0,1.29,New,Wallet
+O20847,2025-06-01,P004,French Fries,Meals,3,120.0,60.0,,New,UPI
+O20398,2025-06-01,P007,Paneer Roll,Meals,8,170.0,100.0,,New,Card
+O20946,2025-06-02,P003,Paneer Wrap,Meals,9,180.0,110.0,16.52,New,Card
+O20656,2025-06-04,P002,Veg Pizza,Meals,7,250.0,160.0,19.02,New,Card
+O20049,2025-06-05,P004,French Fries,Snacks,8,120.0,60.0,21.42,New,Cash
+O20447,2025-06-05,P003,Paneer Wrap,Meals,10,180.0,110.0,10.25,New,Wallet
+O20963,2025-06-05,P006,Iced Tea,Beverages,4,100.0,50.0,19.25,New,Cash
+O20060,2025-06-06,P008,Chocolate Shake,Beverages,5,160.0,85.0,6.42,Returning,Cash
+O20733,2025-06-07,P008,Chocolate Shake,Beverages,7,160.0,85.0,2.54,New,Card
+O21006,2025-06-07,P004,French Fries,Snacks,2,120.0,60.0,22.15,Returning,Card
+O20405,2025-06-07,P003,Paneer Wrap,Meals,3,180.0,110.0,10.58,New,UPI
+O20728,2025-06-10,P006,Iced Tea,Beverages,6,100.0,50.0,7.5,Returning,Cash
+O20565,2025-06-10,P008,Chocolate Shake,Beverages,4,160.0,85.0,,New,Wallet
+O20835,2025-06-10,P009,Nachos,Snacks,7,130.0,70.0,17.82,New,UPI
+O21008,2025-06-11,P006,Iced Tea,Beverages,3,100.0,50.0,18.43,New,Card
+O20378,2025-06-12,P005,Cold Coffee,Beverages,3,140.0,70.0,14.99,New,UPI
+O20899,2025-06-13,P003,Paneer Wrap,Meals,1,180.0,110.0,2.97,New,Wallet
+O20290,2025-06-15,P002,Veg Pizza,Meals,7,250.0,160.0,10.09,New,Card
+O20878,2025-06-15,P009,Nachos,Snacks,7,130.0,70.0,0.3,Returning,Wallet
+O20192,2025-06-17,P008,Chocolate Shake,Beverages,4,160.0,85.0,4.13,Returning,Wallet
+O20918,2025-06-18,P008,Chocolate Shake,Beverages,3,160.0,85.0,,Returning,Wallet
+O20869,2025-06-18,P005,Cold Coffee,Beverages,1,140.0,70.0,22.98,New,Wallet
+O21082,2025-06-18,P001,Classic Veg Burger,Meals,5,150.0,90.0,,New,Card
+O20306,2025-06-19,P004,French Fries,Snacks,5,120.0,60.0,22.38,New,UPI
+O20012,2025-06-20,P007,Paneer Roll,Meals,5,170.0,100.0,4.49,Returning,Wallet
+O20641,2025-06-20,P008,Chocolate Shake,Beverages,8,160.0,85.0,20.45,Returning,Cash
+O20881,2025-06-21,P009,Nachos,Snacks,5,130.0,70.0,23.86,Returning,Card
+O20805,2025-06-21,P007,Paneer Roll,Meals,6,170.0,100.0,8.89,New,Card
+O21046,2025-06-22,P007,Paneer Roll,Snacks,10,170.0,100.0,20.35,Returning,Cash
+O20292,2025-06-22,P008,Chocolate Shake,Beverages,3,160.0,85.0,24.7,New,Wallet
+O20928,2025-06-22,P002,Veg Pizza,Meals,3,250.0,160.0,,New,UPI
+O21041,2025-06-23,P008,Chocolate Shake,Beverages,6,160.0,85.0,12.78,New,Card
+O20238,2025-06-23,P002,Veg Pizza,Meals,2,250.0,160.0,21.06,New,Card
+O20297,2025-06-23,P003,Paneer Wrap,Meals,1,180.0,110.0,12.13,Returning,Cash
+O21018,2025-06-24,P001,Classic Veg Burger,Meals,3,150.0,90.0,24.87,New,Wallet
+O20854,2025-06-24,P003,Paneer Wrap,Meals,3,180.0,110.0,7.06,Returning,Card
+O20036,2025-06-25,P002,Veg Pizza,Meals,8,250.0,160.0,,New,Wallet
+O20992,2025-06-25,P010,Garlic Bread,Snacks,1,110.0,65.0,20.36,Returning,Card
+O20267,2025-06-26,P010,Garlic Bread,Snacks,8,110.0,65.0,20.2,New,Cash
+O20148,2025-06-27,P004,French Fries,Snacks,2,120.0,60.0,15.14,Returning,Wallet
+O20870,2025-06-28,P006,Iced Tea,Beverages,10,100.0,50.0,1.29,New,Card
+O20125,2025-06-29,P005,Cold Coffee,Beverages,9,140.0,70.0,0.88,New,Card
+O20208,2025-06-29,P006,Iced Tea,Beverages,9,100.0,50.0,20.47,Returning,Card
+O20400,2025-06-30,P004,French Fries,Snacks,6,120.0,60.0,14.06,New,Wallet
+O20248,2025-06-30,P006,Iced Tea,Beverages,6,100.0,50.0,18.68,New,UPI
+O20184,2025-06-30,P002,Veg Pizza,Meals,8,250.0,160.0,23.61,New,Card
+O20309,2025-06-30,P007,Paneer Roll,Meals,10,170.0,100.0,12.29,Returning,Card
+O20489,2025-07-01,P003,Paneer Wrap,Meals,8,180.0,110.0,21.07,New,Cash
+O20580,2025-07-02,P008,Chocolate Shake,Beverages,6,160.0,85.0,10.32,Returning,UPI
+O20665,2025-07-02,P002,Veg Pizza,Meals,10,250.0,160.0,5.95,Returning,Wallet
+O20202,2025-07-03,P004,French Fries,Snacks,9,120.0,60.0,19.11,New,Wallet
+O20591,2025-07-03,P007,Paneer Roll,Meals,6,170.0,100.0,9.92,New,UPI
+O20668,2025-07-05,P002,Veg Pizza,Meals,9,250.0,160.0,6.17,Returning,UPI
+O20454,2025-07-05,P007,Paneer Roll,Meals,2,170.0,100.0,10.36,New,Cash
+O20714,2025-07-05,P002,Veg Pizza,Meals,1,250.0,160.0,10.91,Returning,Wallet
+O20509,2025-07-06,P006,Iced Tea,Beverages,2,100.0,50.0,,New,UPI
+O20849,2025-07-08,P009,Nachos,Meals,3,130.0,70.0,12.44,Returning,Card
+O20342,2025-07-08,P007,Paneer Roll,Meals,10,170.0,100.0,18.79,New,Wallet
+O20996,2025-07-09,P001,Classic Veg Burger,Meals,5,150.0,90.0,14.41,New,Wallet
+O20414,2025-07-11,P005,Cold Coffee,Beverages,1,140.0,70.0,15.88,Returning,Cash
+O20217,2025-07-11,P001,Classic Veg Burger,Meals,4,150.0,90.0,14.47,New,Card
+O20415,2025-07-12,P008,Chocolate Shake,Beverages,10,160.0,85.0,3.76,New,Card
+O20477,2025-07-12,P010,Garlic Bread,Snacks,3,110.0,65.0,3.87,Returning,Card
+O20417,2025-07-12,P002,Veg Pizza,Meals,7,250.0,160.0,15.09,Returning,UPI
+O20499,2025-07-13,P008,Chocolate Shake,Beverages,10,160.0,85.0,6.63,New,UPI
+O20851,2025-07-14,P010,Garlic Bread,Snacks,2,110.0,65.0,23.55,New,Card
+O20165,2025-07-14,P002,Veg Pizza,Meals,4,250.0,160.0,5.31,Returning,Wallet
+O20629,2025-07-14,P005,Cold Coffee,Beverages,4,140.0,70.0,24.83,New,Card
+O20364,2025-07-14,P006,Iced Tea,Beverages,8,100.0,50.0,6.78,New,Card
+O20659,2025-07-15,P002,Veg Pizza,Meals,7,250.0,160.0,11.81,New,Cash
+O20051,2025-07-15,P004,French Fries,Snacks,5,120.0,60.0,6.5,Returning,Card
+O20572,2025-07-15,P009,Nachos,Snacks,3,130.0,70.0,7.67,New,UPI
+O20164,2025-07-16,P004,French Fries,Snacks,3,120.0,60.0,5.86,Returning,Cash
+O20155,2025-07-16,P006,Iced Tea,Beverages,5,100.0,50.0,23.43,Returning,UPI
+O20738,2025-07-17,P001,Classic Veg Burger,Meals,10,150.0,90.0,24.85,Returning,UPI
+O20491,2025-07-18,P001,Classic Veg Burger,Meals,9,150.0,90.0,6.35,New,Card
+O20063,2025-07-18,P009,Nachos,Snacks,9,130.0,70.0,0.24,Returning,UPI
+O20372,2025-07-19,P005,Cold Coffee,Beverages,4,140.0,70.0,5.16,Returning,UPI
+O20362,2025-07-19,P004,French Fries,Snacks,10,120.0,60.0,14.07,Returning,Card
+O20557,2025-07-19,P004,French Fries,Snacks,3,120.0,60.0,11.07,Returning,Card
+O20865,2025-07-20,P003,Paneer Wrap,Meals,9,180.0,110.0,8.51,Returning,Wallet
+O20925,2025-07-20,P005,Cold Coffee,Beverages,10,140.0,70.0,21.81,New,Wallet
+O20252,2025-07-20,P002,Veg Pizza,Meals,5,250.0,160.0,1.27,Returning,UPI
+O20043,2025-07-21,P002,Veg Pizza,Meals,4,250.0,160.0,,Returning,UPI
+O20655,2025-07-22,P001,Classic Veg Burger,Meals,8,150.0,90.0,6.27,Returning,Card
+O20541,2025-07-22,P007,Paneer Roll,Beverages,8,170.0,100.0,0.93,New,Wallet
+O20615,2025-07-24,P005,Cold Coffee,Beverages,1,140.0,70.0,9.45,New,UPI
+O20446,2025-07-25,P007,Paneer Roll,Meals,4,170.0,100.0,24.22,Returning,UPI
+O20526,2025-07-27,P010,Garlic Bread,Snacks,5,110.0,65.0,21.24,New,Card
+O20151,2025-07-28,P009,Nachos,Snacks,2,130.0,70.0,,New,Wallet
+O20118,2025-07-28,P009,Nachos,Snacks,4,130.0,70.0,13.01,Returning,Cash
+O20261,2025-07-31,P010,Garlic Bread,Snacks,5,110.0,65.0,14.82,Returning,Wallet
+O20654,2025-08-01,P010,Garlic Bread,Snacks,7,110.0,65.0,3.46,Returning,Wallet
+O20915,2025-08-02,P002,Veg Pizza,Meals,7,250.0,160.0,13.46,Returning,Card
+O20474,2025-08-02,P006,Iced Tea,Beverages,8,100.0,50.0,23.78,New,Wallet
+O20861,2025-08-03,P004,French Fries,Snacks,10,120.0,60.0,18.18,Returning,Cash
+O20794,2025-08-04,P010,Garlic Bread,Snacks,6,110.0,65.0,17.18,Returning,Wallet
+O20906,2025-08-04,P007,Paneer Roll,Meals,4,170.0,100.0,5.91,New,Wallet
+O20281,2025-08-06,P001,Classic Veg Burger,Meals,5,150.0,90.0,11.76,Returning,Wallet
+O20045,2025-08-06,P003,Paneer Wrap,Meals,10,180.0,110.0,16.9,Returning,Wallet
+O21084,2025-08-06,P007,Paneer Roll,Meals,1,170.0,100.0,14.01,Returning,Cash
+O20065,2025-08-06,P006,Iced Tea,Beverages,8,100.0,50.0,14.62,New,UPI
+O20356,2025-08-06,P009,Nachos,Snacks,5,130.0,70.0,15.79,New,Wallet
+O20601,2025-08-08,P004,French Fries,Snacks,4,120.0,60.0,6.7,New,Cash
+O21068,2025-08-10,P009,Nachos,Snacks,7,130.0,70.0,9.56,Returning,Cash
+O20735,2025-08-12,P001,Classic Veg Burger,Meals,1,150.0,90.0,24.61,New,Card
+O20373,2025-08-12,P009,Nachos,Snacks,6,130.0,70.0,23.45,Returning,UPI
+O20819,2025-08-13,P002,Veg Pizza,Meals,9,250.0,160.0,17.01,Returning,Wallet
+O20507,2025-08-14,P005,Cold Coffee,Beverages,1,140.0,70.0,1.32,New,UPI
+O20410,2025-08-14,P006,Iced Tea,Beverages,10,100.0,50.0,,Returning,UPI
+O20424,2025-08-15,P010,Garlic Bread,Snacks,5,110.0,65.0,18.27,New,Cash
+O20430,2025-08-17,P006,Iced Tea,Beverages,10,100.0,50.0,8.0,New,Cash
+O20070,2025-08-17,P007,Paneer Roll,Meals,3,170.0,100.0,16.46,New,Wallet
+O20930,2025-08-18,P005,Cold Coffee,Beverages,1,140.0,70.0,2.93,Returning,UPI
+O20817,2025-08-19,P004,French Fries,Snacks,10,120.0,60.0,24.15,New,Wallet
+O20475,2025-08-20,P003,Paneer Wrap,Meals,3,180.0,110.0,20.33,New,UPI
+O20337,2025-08-21,P001,Classic Veg Burger,Meals,8,150.0,90.0,4.62,Returning,Cash
+O20496,2025-08-24,P001,Classic Veg Burger,Meals,4,150.0,90.0,21.9,New,Card
+O21095,2025-08-24,P007,Paneer Roll,Beverages,7,170.0,100.0,9.73,Returning,UPI
+O20813,2025-08-25,P004,French Fries,Snacks,2,120.0,60.0,2.64,Returning,Card
+O20951,2025-08-25,P003,Paneer Wrap,Meals,2,180.0,110.0,,New,Card
+O20989,2025-08-26,P005,Cold Coffee,Beverages,3,140.0,70.0,3.73,New,Wallet
+O20625,2025-08-26,P009,Nachos,Snacks,2,130.0,70.0,23.13,New,Cash
+O20755,2025-08-27,P003,Paneer Wrap,Meals,1,180.0,110.0,3.52,New,Wallet
+O20587,2025-08-27,P003,Paneer Wrap,Meals,4,180.0,110.0,11.84,New,Card
+O21027,2025-08-28,P002,Veg Pizza,Meals,7,250.0,160.0,24.42,Returning,Card
+O20304,2025-08-28,P005,Cold Coffee,Beverages,7,140.0,70.0,18.97,Returning,Card
+O20750,2025-08-28,P005,Cold Coffee,Beverages,4,140.0,70.0,24.19,New,Wallet
+O20969,2025-08-28,P006,Iced Tea,Beverages,8,100.0,50.0,22.44,Returning,Cash
+O21003,2025-08-29,P003,Paneer Wrap,Meals,8,180.0,110.0,9.06,New,Cash
+O20635,2025-08-30,P008,Chocolate Shake,Beverages,8,160.0,85.0,15.54,Returning,Wallet
+O20080,2025-08-30,P008,Chocolate Shake,Beverages,6,160.0,85.0,21.83,Returning,UPI
+O20152,2025-08-30,P004,French Fries,Snacks,10,120.0,60.0,13.93,Returning,Cash
+O20067,2025-08-30,P003,Paneer Wrap,Meals,9,180.0,110.0,12.81,New,Card
+O20144,2025-08-31,P008,Chocolate Shake,Snacks,4,160.0,85.0,18.79,New,Card
+O20871,2025-09-01,P005,Cold Coffee,Beverages,1,140.0,70.0,20.71,Returning,Card
+O20825,2025-09-03,P010,Garlic Bread,Beverages,8,110.0,65.0,20.78,Returning,UPI
+O21054,2025-09-03,P008,Chocolate Shake,Beverages,1,160.0,85.0,7.09,Returning,Card
+O20481,2025-09-03,P003,Paneer Wrap,Meals,6,180.0,110.0,1.23,New,Wallet
+O20431,2025-09-05,P001,Classic Veg Burger,Meals,9,150.0,90.0,18.33,Returning,UPI
+O20358,2025-09-07,P006,Iced Tea,Beverages,4,100.0,50.0,21.29,Returning,Wallet
+O20840,2025-09-09,P010,Garlic Bread,Snacks,7,110.0,65.0,11.85,Returning,Cash
+O20731,2025-09-09,P008,Chocolate Shake,Beverages,7,160.0,85.0,,Returning,Card
+O21088,2025-09-09,P003,Paneer Wrap,Meals,8,180.0,110.0,20.37,Returning,Wallet
+O20120,2025-09-10,P001,Classic Veg Burger,Meals,8,150.0,90.0,0.79,Returning,Card
+O20307,2025-09-10,P010,Garlic Bread,Snacks,2,110.0,65.0,15.55,Returning,Wallet
+O20961,2025-09-11,P006,Iced Tea,Beverages,3,100.0,50.0,24.35,Returning,Wallet
+O20609,2025-09-11,P001,Classic Veg Burger,Meals,6,150.0,90.0,9.0,Returning,Card
+O20872,2025-09-11,P006,Iced Tea,Beverages,2,100.0,50.0,15.55,New,Card
+O20682,2025-09-11,P005,Cold Coffee,Beverages,5,140.0,70.0,5.11,Returning,UPI
+O20056,2025-09-12,P007,Paneer Roll,Meals,4,170.0,100.0,5.39,New,Wallet
+O20040,2025-09-12,P006,Iced Tea,Beverages,8,100.0,50.0,11.11,New,Cash
+O20448,2025-09-13,P008,Chocolate Shake,Beverages,9,160.0,85.0,22.3,New,UPI
+O20829,2025-09-13,P004,French Fries,Snacks,7,120.0,60.0,11.66,Returning,Cash
+O20739,2025-09-14,P007,Paneer Roll,Meals,2,170.0,100.0,2.86,Returning,Card
+O21072,2025-09-14,P005,Cold Coffee,Beverages,3,140.0,70.0,19.04,New,Wallet
+O20766,2025-09-15,P009,Nachos,Snacks,2,130.0,70.0,3.26,New,Wallet
+O20853,2025-09-16,P002,Veg Pizza,Meals,7,250.0,160.0,21.78,New,Card
+O20952,2025-09-16,P004,French Fries,Snacks,2,120.0,60.0,12.94,Returning,Cash
+O20237,2025-09-18,P006,Iced Tea,Beverages,7,100.0,50.0,4.56,New,Cash
+O20954,2025-09-19,P010,Garlic Bread,Meals,7,110.0,65.0,,Returning,Cash
+O20146,2025-09-19,P007,Paneer Roll,Meals,2,170.0,100.0,1.63,Returning,Wallet
+O20432,2025-09-20,P003,Paneer Wrap,Meals,1,180.0,110.0,,Returning,Cash
+O20203,2025-09-21,P007,Paneer Roll,Meals,3,170.0,100.0,14.92,Returning,Card
+O20542,2025-09-25,P010,Garlic Bread,Meals,9,110.0,65.0,16.48,New,Wallet
+O20348,2025-09-26,P009,Nachos,Snacks,3,130.0,70.0,16.4,Returning,Wallet
+O20752,2025-09-26,P005,Cold Coffee,Beverages,3,140.0,70.0,0.53,New,Cash
+O21016,2025-09-26,P003,Paneer Wrap,Meals,4,180.0,110.0,7.62,Returning,Cash
+O20334,2025-09-27,P002,Veg Pizza,Meals,6,250.0,160.0,10.23,Returning,Card
+O20823,2025-09-28,P003,Paneer Wrap,Meals,2,180.0,110.0,23.22,Returning,UPI
+O20068,2025-09-28,P001,Classic Veg Burger,Beverages,9,150.0,90.0,8.2,Returning,Cash
+O20265,2025-09-28,P009,Nachos,Snacks,10,130.0,70.0,1.93,Returning,UPI
+O20720,2025-09-29,P010,Garlic Bread,Snacks,3,110.0,65.0,11.5,Returning,Wallet
+O20617,2025-10-01,P009,Nachos,Snacks,8,130.0,70.0,16.12,Returning,UPI
+O20631,2025-10-01,P008,Chocolate Shake,Beverages,7,160.0,85.0,2.99,New,Wallet
+O21092,2025-10-02,P010,Garlic Bread,Snacks,1,110.0,65.0,,Returning,UPI
+O20983,2025-10-03,P006,Iced Tea,Beverages,3,100.0,50.0,9.25,New,Card
+O20283,2025-10-03,P004,French Fries,Snacks,6,120.0,60.0,24.81,New,Wallet
+O20352,2025-10-03,P002,Veg Pizza,Meals,10,250.0,160.0,12.19,New,UPI
+O20694,2025-10-05,P006,Iced Tea,Beverages,10,100.0,50.0,23.81,Returning,Cash
+O20909,2025-10-06,P009,Nachos,Snacks,4,130.0,70.0,5.58,New,Wallet
+O20833,2025-10-09,P003,Paneer Wrap,Meals,1,180.0,110.0,17.58,New,Cash
+O20344,2025-10-10,P007,Paneer Roll,Meals,1,170.0,100.0,8.79,Returning,Cash
+O20130,2025-10-10,P002,Veg Pizza,Snacks,9,250.0,160.0,2.46,New,Card
+O20759,2025-10-13,P004,French Fries,Snacks,6,120.0,60.0,5.19,New,Card
+O20769,2025-10-14,P005,Cold Coffee,Beverages,1,140.0,70.0,,Returning,UPI
+O20057,2025-10-14,P007,Paneer Roll,Meals,3,170.0,100.0,8.63,Returning,Cash
+O20392,2025-10-16,P010,Garlic Bread,Snacks,7,110.0,65.0,7.37,Returning,Cash
+O20547,2025-10-17,P008,Chocolate Shake,Beverages,8,160.0,85.0,17.47,Returning,Cash
+O20339,2025-10-17,P005,Cold Coffee,Beverages,5,140.0,70.0,2.55,New,Wallet
+O20628,2025-10-18,P003,Paneer Wrap,Meals,8,180.0,110.0,16.71,Returning,Cash
+O20546,2025-10-19,P010,Garlic Bread,Snacks,9,110.0,65.0,24.01,Returning,Wallet
+O21087,2025-10-19,P001,Classic Veg Burger,Meals,9,150.0,90.0,9.81,Returning,Card
+O20296,2025-10-20,P004,French Fries,Snacks,9,120.0,60.0,19.02,Returning,UPI
+O20985,2025-10-20,P009,Nachos,Snacks,6,130.0,70.0,,Returning,Wallet
+O20305,2025-10-21,P010,Garlic Bread,Snacks,1,110.0,65.0,13.1,Returning,UPI
+O20298,2025-10-21,P009,Nachos,Meals,8,130.0,70.0,17.29,Returning,Cash
+O20850,2025-10-21,P009,Nachos,Snacks,7,130.0,70.0,4.97,New,Wallet
+O20061,2025-10-22,P008,Chocolate Shake,Beverages,9,160.0,85.0,5.09,Returning,UPI
+O20715,2025-10-22,P003,Paneer Wrap,Meals,8,180.0,110.0,,Returning,Wallet
+O20842,2025-10-23,P006,Iced Tea,Beverages,2,100.0,50.0,2.4,New,Wallet
+O20121,2025-10-24,P010,Garlic Bread,Snacks,6,110.0,65.0,,New,Card
+O20178,2025-10-24,P007,Paneer Roll,Meals,7,170.0,100.0,12.73,New,Card
+O20366,2025-10-24,P007,Paneer Roll,Meals,6,170.0,100.0,22.5,New,UPI
+O20939,2025-10-24,P003,Paneer Wrap,Snacks,8,180.0,110.0,10.83,Returning,UPI
+O20575,2025-10-24,P004,French Fries,Snacks,3,120.0,60.0,18.8,New,Wallet
+O20140,2025-10-25,P005,Cold Coffee,Beverages,5,140.0,70.0,20.95,Returning,Cash
+O20233,2025-10-25,P001,Classic Veg Burger,Meals,10,150.0,90.0,20.75,New,Wallet
+O20797,2025-10-27,P008,Chocolate Shake,Beverages,3,160.0,85.0,3.53,New,UPI
+O20539,2025-10-27,P009,Nachos,Snacks,6,130.0,70.0,9.78,New,Wallet
+O20669,2025-10-27,P002,Veg Pizza,Beverages,1,250.0,160.0,8.03,Returning,UPI
+O20143,2025-10-28,P001,Classic Veg Burger,Meals,9,150.0,90.0,,Returning,Card
+O20173,2025-10-28,P007,Paneer Roll,Meals,2,170.0,100.0,1.55,Returning,Wallet
+O20463,2025-10-28,P010,Garlic Bread,Snacks,10,110.0,65.0,16.67,Returning,UPI
+O20255,2025-10-28,P008,Chocolate Shake,Beverages,3,160.0,85.0,,New,UPI
+O20650,2025-10-29,P001,Classic Veg Burger,Meals,10,150.0,90.0,21.1,Returning,Cash
+O20540,2025-10-31,P010,Garlic Bread,Snacks,5,110.0,65.0,7.48,Returning,Wallet
+O20284,2025-10-31,P001,Classic Veg Burger,Meals,7,150.0,90.0,15.45,New,Card
+O20831,2025-10-31,P009,Nachos,Snacks,5,130.0,70.0,18.05,Returning,Card
+O20779,2025-10-31,P004,French Fries,Meals,3,120.0,60.0,0.21,New,UPI
+O20035,2025-11-01,P010,Garlic Bread,Snacks,1,110.0,65.0,6.79,Returning,Wallet
+O20920,2025-11-02,P004,French Fries,Snacks,8,120.0,60.0,6.58,New,Card
+O21032,2025-11-02,P005,Cold Coffee,Beverages,6,140.0,70.0,4.23,New,UPI
+O20235,2025-11-05,P002,Veg Pizza,Meals,2,250.0,160.0,10.89,New,Card
+O20676,2025-11-05,P005,Cold Coffee,Beverages,10,140.0,70.0,19.66,Returning,UPI
+O21031,2025-11-05,P010,Garlic Bread,Snacks,1,110.0,65.0,2.46,New,UPI
+O21000,2025-11-07,P007,Paneer Roll,Meals,9,170.0,100.0,2.52,Returning,Card
+O20640,2025-11-07,P009,Nachos,Snacks,9,130.0,70.0,23.5,New,Cash
+O20642,2025-11-07,P006,Iced Tea,Beverages,6,100.0,50.0,,New,Card
+O20093,2025-11-07,P010,Garlic Bread,Snacks,10,110.0,65.0,7.61,Returning,Wallet
+O20740,2025-11-08,P005,Cold Coffee,Beverages,8,140.0,70.0,7.34,New,UPI
+O20317,2025-11-09,P004,French Fries,Beverages,4,120.0,60.0,24.04,New,Wallet
+O21010,2025-11-10,P010,Garlic Bread,Snacks,6,110.0,65.0,7.1,New,UPI
+O20497,2025-11-12,P010,Garlic Bread,Snacks,3,110.0,65.0,7.99,Returning,UPI
+O20827,2025-11-12,P010,Garlic Bread,Snacks,6,110.0,65.0,5.72,Returning,Card
+O20158,2025-11-13,P007,Paneer Roll,Beverages,3,170.0,100.0,19.76,New,Wallet
+O20988,2025-11-13,P006,Iced Tea,Beverages,3,100.0,50.0,7.55,New,UPI
+O20582,2025-11-14,P007,Paneer Roll,Meals,8,170.0,100.0,22.73,New,Cash
+O20586,2025-11-14,P001,Classic Veg Burger,Meals,8,150.0,90.0,9.32,Returning,Card
+O20315,2025-11-15,P008,Chocolate Shake,Beverages,8,160.0,85.0,6.43,Returning,Wallet
+O20803,2025-11-15,P003,Paneer Wrap,Meals,10,180.0,110.0,0.17,Returning,Cash
+O20321,2025-11-17,P009,Nachos,Snacks,5,130.0,70.0,23.62,Returning,Cash
+O20493,2025-11-18,P007,Paneer Roll,Meals,9,170.0,100.0,22.32,Returning,Cash
+O20863,2025-11-18,P001,Classic Veg Burger,Meals,5,150.0,90.0,4.39,New,Card
+O20176,2025-11-20,P001,Classic Veg Burger,Meals,9,150.0,90.0,,Returning,UPI
+O20075,2025-11-20,P006,Iced Tea,Beverages,4,100.0,50.0,9.67,New,Cash
+O20502,2025-11-21,P001,Classic Veg Burger,Meals,6,150.0,90.0,24.0,Returning,Cash
+O20107,2025-11-21,P004,French Fries,Snacks,9,120.0,60.0,7.02,New,Card
+O20479,2025-11-21,P005,Cold Coffee,Meals,9,140.0,70.0,,New,Cash
+O20106,2025-11-22,P001,Classic Veg Burger,Meals,2,150.0,90.0,17.66,New,Cash
+O20429,2025-11-22,P003,Paneer Wrap,Meals,5,180.0,110.0,3.13,New,UPI
+O20438,2025-11-22,P002,Veg Pizza,Meals,3,250.0,160.0,7.45,Returning,UPI
+O20072,2025-11-23,P006,Iced Tea,Beverages,9,100.0,50.0,13.3,Returning,Cash
+O20441,2025-11-24,P008,Chocolate Shake,Beverages,1,160.0,85.0,10.5,New,Cash
+O20619,2025-11-24,P010,Garlic Bread,Meals,7,110.0,65.0,8.71,New,UPI
+O20658,2025-11-24,P001,Classic Veg Burger,Meals,8,150.0,90.0,20.44,Returning,Cash
+O20964,2025-11-25,P007,Paneer Roll,Meals,5,170.0,100.0,,New,Wallet
+O20253,2025-11-25,P004,French Fries,Meals,1,120.0,60.0,,Returning,Cash
+O20388,2025-11-25,P005,Cold Coffee,Beverages,7,140.0,70.0,,New,Cash
+O21019,2025-11-25,P006,Iced Tea,Beverages,5,100.0,50.0,,New,Wallet
+O20718,2025-11-26,P006,Iced Tea,Beverages,8,100.0,50.0,12.95,New,Cash
+O20247,2025-11-27,P009,Nachos,Snacks,5,130.0,70.0,19.69,New,Cash
+O20567,2025-11-27,P010,Garlic Bread,Snacks,10,110.0,65.0,18.16,Returning,Wallet
+O20091,2025-11-27,P007,Paneer Roll,Meals,8,170.0,100.0,7.7,New,UPI
+O20852,2025-11-28,P003,Paneer Wrap,Meals,1,180.0,110.0,1.53,New,Wallet
+O20052,2025-11-28,P010,Garlic Bread,Snacks,10,110.0,65.0,2.39,Returning,UPI
+O20048,2025-11-28,P001,Classic Veg Burger,Meals,3,150.0,90.0,7.13,New,Wallet
+O20561,2025-11-29,P008,Chocolate Shake,Beverages,10,160.0,85.0,1.53,New,Card
+O20246,2025-11-29,P007,Paneer Roll,Meals,10,170.0,100.0,0.3,New,UPI
+O21059,2025-11-30,P004,French Fries,Snacks,7,120.0,60.0,0.01,Returning,UPI
+O21086,2025-12-01,P007,Paneer Roll,Meals,1,170.0,100.0,21.09,New,Card
+O20789,2025-12-02,P003,Paneer Wrap,Meals,8,180.0,110.0,8.42,New,Card
+O20786,2025-12-03,P004,French Fries,Snacks,9,120.0,60.0,,Returning,Cash
+O20274,2025-12-03,P008,Chocolate Shake,Beverages,9,160.0,85.0,20.86,New,Card
+O20478,2025-12-03,P005,Cold Coffee,Beverages,3,140.0,70.0,7.54,Returning,Wallet
+O20476,2025-12-04,P007,Paneer Roll,Meals,4,170.0,100.0,10.4,Returning,Card
+O21002,2025-12-04,P010,Garlic Bread,Snacks,1,110.0,65.0,4.9,New,Card
+O21057,2025-12-07,P002,Veg Pizza,Meals,4,250.0,160.0,16.63,New,Wallet
+O20133,2025-12-07,P010,Garlic Bread,Snacks,3,110.0,65.0,5.04,New,Wallet
+O20320,2025-12-08,P008,Chocolate Shake,Beverages,8,160.0,85.0,0.31,New,UPI
+O20285,2025-12-08,P004,French Fries,Snacks,5,120.0,60.0,11.13,Returning,Cash
+O20064,2025-12-08,P006,Iced Tea,Beverages,6,100.0,50.0,4.0,New,UPI
+O20886,2025-12-09,P001,Classic Veg Burger,Meals,4,150.0,90.0,1.7,Returning,Cash
+O20229,2025-12-09,P005,Cold Coffee,Beverages,5,140.0,70.0,2.03,New,UPI
+O20349,2025-12-09,P010,Garlic Bread,Snacks,10,110.0,65.0,11.56,New,Cash
+O21014,2025-12-09,P008,Chocolate Shake,Beverages,4,160.0,85.0,,New,UPI
+O20553,2025-12-10,P003,Paneer Wrap,Meals,7,180.0,110.0,24.63,Returning,Card
+O20707,2025-12-10,P004,French Fries,Snacks,1,120.0,60.0,2.24,Returning,Card
+O20226,2025-12-11,P002,Veg Pizza,Meals,10,250.0,160.0,0.38,Returning,UPI
+O20578,2025-12-11,P006,Iced Tea,Beverages,10,100.0,50.0,17.55,New,Cash
+O20172,2025-12-11,P010,Garlic Bread,Snacks,10,110.0,65.0,15.5,New,Cash
+O20598,2025-12-12,P010,Garlic Bread,Snacks,7,110.0,65.0,17.78,Returning,Cash
+O20014,2025-12-12,P008,Chocolate Shake,Beverages,10,160.0,85.0,15.41,New,Cash
+O21071,2025-12-13,P002,Veg Pizza,Meals,3,250.0,160.0,2.36,New,Wallet
+O20250,2025-12-13,P009,Nachos,Beverages,6,130.0,70.0,23.97,Returning,Wallet
+O20976,2025-12-13,P007,Paneer Roll,Meals,4,170.0,100.0,,Returning,Wallet
+O20329,2025-12-14,P006,Iced Tea,Beverages,1,100.0,50.0,17.67,Returning,Cash
+O20074,2025-12-14,P008,Chocolate Shake,Beverages,6,160.0,85.0,9.5,New,Wallet
+O21023,2025-12-14,P009,Nachos,Snacks,1,130.0,70.0,13.9,New,Wallet
+O20116,2025-12-16,P002,Veg Pizza,Meals,7,250.0,160.0,2.17,New,Wallet
+O20082,2025-12-18,P006,Iced Tea,Beverages,3,100.0,50.0,2.27,Returning,Wallet
+O20113,2025-12-18,P010,Garlic Bread,Snacks,9,110.0,65.0,16.38,New,Cash
+O20544,2025-12-19,P008,Chocolate Shake,Beverages,1,160.0,85.0,19.54,Returning,Card
+O20117,2025-12-21,P004,French Fries,Snacks,6,120.0,60.0,6.42,New,Card
+O20230,2025-12-21,P008,Chocolate Shake,Beverages,10,160.0,85.0,21.49,New,Cash
+O20459,2025-12-21,P007,Paneer Roll,Meals,4,170.0,100.0,,Returning,Cash
+O21081,2025-12-21,P008,Chocolate Shake,Beverages,6,160.0,85.0,9.09,New,Card
+O20369,2025-12-23,P009,Nachos,Snacks,3,130.0,70.0,10.17,Returning,Cash
+O20393,2025-12-24,P004,French Fries,Snacks,3,120.0,60.0,18.3,New,Cash
+O20453,2025-12-25,P010,Garlic Bread,Snacks,3,110.0,65.0,19.01,New,Cash
+O20059,2025-12-25,P006,Iced Tea,Beverages,6,100.0,50.0,8.13,New,Wallet
+O20289,2025-12-26,P005,Cold Coffee,Beverages,9,140.0,70.0,6.82,Returning,Card
+O21004,2025-12-26,P010,Garlic Bread,Snacks,9,110.0,65.0,5.49,Returning,Wallet
+O20022,2025-12-27,P005,Cold Coffee,Beverages,8,140.0,70.0,5.83,New,Wallet
+O20501,2025-12-27,P002,Veg Pizza,Meals,2,250.0,160.0,18.71,Returning,Card
+O20623,2025-12-29,P003,Paneer Wrap,Meals,7,180.0,110.0,8.87,Returning,Card
+O20602,2025-12-29,P001,Classic Veg Burger,Meals,3,150.0,90.0,17.71,Returning,Wallet
+O20201,2025-12-31,P009,Nachos,Snacks,1,130.0,70.0,5.68,New,Wallet
+O20353,2025-12-31,P008,Chocolate Shake,Snacks,10,160.0,85.0,22.22,Returning,Card
+O20010,2026-01-01,P002,Veg Pizza,Meals,8,250.0,160.0,18.99,New,Card
+O20403,2026-01-01,P010,Garlic Bread,Snacks,9,110.0,65.0,4.97,Returning,Cash
+O20264,2026-01-01,P004,French Fries,Snacks,10,120.0,60.0,10.49,New,Cash
+O20515,2026-01-04,P005,Cold Coffee,Beverages,4,140.0,70.0,20.9,New,Card
+O20634,2026-01-04,P007,Paneer Roll,Meals,10,170.0,100.0,5.43,Returning,UPI
+O20435,2026-01-05,P002,Veg Pizza,Meals,7,250.0,160.0,6.72,New,Card
+O20929,2026-01-07,P002,Veg Pizza,Meals,3,250.0,160.0,8.45,New,Wallet
+O20874,2026-01-09,P007,Paneer Roll,Snacks,6,170.0,100.0,22.74,Returning,Wallet
+O20016,2026-01-09,P001,Classic Veg Burger,Meals,9,150.0,90.0,3.48,Returning,Wallet
+O20115,2026-01-10,P008,Chocolate Shake,Meals,4,160.0,85.0,18.83,New,Cash
+O20761,2026-01-11,P005,Cold Coffee,Beverages,7,140.0,70.0,11.16,Returning,Card
+O20811,2026-01-12,P006,Iced Tea,Beverages,9,100.0,50.0,2.51,New,Cash
+O21045,2026-01-13,P005,Cold Coffee,Beverages,8,140.0,70.0,13.06,Returning,Card
+O20944,2026-01-15,P001,Classic Veg Burger,Meals,7,150.0,90.0,9.89,Returning,Wallet
+O20585,2026-01-16,P007,Paneer Roll,Meals,9,170.0,100.0,7.63,New,Cash
+O20723,2026-01-16,P007,Paneer Roll,Meals,9,170.0,100.0,0.33,New,Cash
+O20558,2026-01-16,P010,Garlic Bread,Snacks,3,110.0,65.0,,New,Card
+O20917,2026-01-16,P007,Paneer Roll,Meals,7,170.0,100.0,0.39,New,Wallet
+O20325,2026-01-16,P004,French Fries,Snacks,4,120.0,60.0,2.15,Returning,Cash
+O20206,2026-01-18,P006,Iced Tea,Beverages,4,100.0,50.0,14.1,New,Wallet
+O20727,2026-01-18,P009,Nachos,Snacks,1,130.0,70.0,19.45,New,Card
+O20703,2026-01-19,P006,Iced Tea,Beverages,6,100.0,50.0,20.99,New,Wallet
+O20000,2026-01-20,P001,Classic Veg Burger,Meals,6,150.0,90.0,24.46,Returning,Wallet
+O20394,2026-01-21,P004,French Fries,Snacks,3,120.0,60.0,1.98,New,Wallet
+O20936,2026-01-22,P010,Garlic Bread,Snacks,7,110.0,65.0,18.98,New,Wallet
+O20980,2026-01-23,P002,Veg Pizza,Meals,4,250.0,160.0,6.57,New,Cash
+O20576,2026-01-23,P006,Iced Tea,Beverages,4,100.0,50.0,9.98,Returning,Card
+O20933,2026-01-23,P009,Nachos,Snacks,7,130.0,70.0,22.69,New,UPI
+O20159,2026-01-24,P007,Paneer Roll,Meals,10,170.0,100.0,21.92,New,Card
+O20268,2026-01-25,P006,Iced Tea,Snacks,10,100.0,50.0,18.79,Returning,Wallet
+O20737,2026-01-26,P004,French Fries,Snacks,1,120.0,60.0,9.65,Returning,Card
+O20781,2026-01-27,P009,Nachos,Snacks,2,130.0,70.0,3.82,New,UPI
+O20932,2026-01-28,P009,Nachos,Snacks,6,130.0,70.0,24.81,New,Card
+O20893,2026-01-28,P006,Iced Tea,Beverages,3,100.0,50.0,10.94,New,UPI
+O20704,2026-01-29,P002,Veg Pizza,Meals,6,250.0,160.0,11.23,Returning,UPI
+O20711,2026-01-29,P010,Garlic Bread,Snacks,6,110.0,65.0,15.96,New,Cash
+O20460,2026-01-29,P001,Classic Veg Burger,Meals,8,150.0,90.0,14.07,Returning,Wallet
+O20839,2026-01-29,P005,Cold Coffee,Beverages,5,140.0,70.0,,Returning,Wallet
+O20300,2026-01-30,P008,Chocolate Shake,Beverages,6,160.0,85.0,1.26,New,Cash
+O20278,2026-01-31,P007,Paneer Roll,Meals,5,170.0,100.0,6.1,New,UPI
+O20571,2026-01-31,P005,Cold Coffee,Beverages,4,140.0,70.0,22.26,Returning,Card
+O20772,2026-01-31,P006,Iced Tea,Beverages,6,100.0,50.0,7.81,Returning,Card
+O21038,2026-02-02,P006,Iced Tea,Beverages,3,100.0,50.0,4.12,New,Cash
+O20293,2026-02-02,P007,Paneer Roll,Meals,10,170.0,100.0,1.71,New,UPI
+O20216,2026-02-02,P007,Paneer Roll,Meals,2,170.0,100.0,,Returning,UPI
+O20333,2026-02-02,P001,Classic Veg Burger,Meals,7,150.0,90.0,23.51,New,UPI
+O20467,2026-02-03,P007,Paneer Roll,Meals,3,170.0,100.0,22.08,Returning,Wallet
+O20999,2026-02-06,P003,Paneer Wrap,Beverages,10,180.0,110.0,21.29,New,UPI
+O21062,2026-02-07,P008,Chocolate Shake,Beverages,6,160.0,85.0,20.06,New,Cash
+O20776,2026-02-07,P002,Veg Pizza,Meals,5,250.0,160.0,13.78,Returning,Cash
+O20751,2026-02-07,P009,Nachos,Snacks,2,130.0,70.0,9.05,New,Wallet
+O20671,2026-02-08,P007,Paneer Roll,Meals,1,170.0,100.0,17.9,New,UPI
+O21055,2026-02-08,P003,Paneer Wrap,Meals,8,180.0,110.0,4.46,New,Wallet
+O20379,2026-02-08,P001,Classic Veg Burger,Meals,8,150.0,90.0,4.9,Returning,Wallet
+O21048,2026-02-08,P009,Nachos,Snacks,9,130.0,70.0,9.78,New,Wallet
+O20837,2026-02-11,P005,Cold Coffee,Beverages,2,140.0,70.0,9.86,New,Wallet
+O20975,2026-02-11,P007,Paneer Roll,Meals,2,170.0,100.0,17.66,Returning,UPI
+O20955,2026-02-11,P006,Iced Tea,Beverages,5,100.0,50.0,0.51,Returning,Cash
+O20336,2026-02-11,P002,Veg Pizza,Beverages,9,250.0,160.0,13.33,New,Card
+O20381,2026-02-13,P008,Chocolate Shake,Beverages,6,160.0,85.0,22.59,Returning,Card
+O20187,2026-02-13,P007,Paneer Roll,Meals,1,170.0,100.0,24.8,New,Card
+O20887,2026-02-14,P004,French Fries,Snacks,4,120.0,60.0,7.11,Returning,UPI
+O21042,2026-02-14,P003,Paneer Wrap,Meals,5,180.0,110.0,2.45,Returning,Cash
+O20662,2026-02-14,P005,Cold Coffee,Beverages,8,140.0,70.0,0.83,Returning,Card
+O20327,2026-02-14,P001,Classic Veg Burger,Meals,1,150.0,90.0,8.68,Returning,Cash
+O20271,2026-02-14,P010,Garlic Bread,Snacks,10,110.0,65.0,,Returning,Wallet
+O20500,2026-02-15,P003,Paneer Wrap,Meals,9,180.0,110.0,7.17,Returning,Wallet
+O20084,2026-02-16,P001,Classic Veg Burger,Meals,1,150.0,90.0,13.49,New,Card
+O20559,2026-02-16,P010,Garlic Bread,Snacks,7,110.0,65.0,8.39,Returning,Card
+O20021,2026-02-16,P002,Veg Pizza,Meals,6,250.0,160.0,13.64,Returning,Card
+O20677,2026-02-17,P010,Garlic Bread,Snacks,9,110.0,65.0,4.59,New,UPI
+O20950,2026-02-17,P010,Garlic Bread,Snacks,2,110.0,65.0,10.36,Returning,Wallet
+O20514,2026-02-18,P003,Paneer Wrap,Meals,6,180.0,110.0,2.77,Returning,Card
+O20589,2026-02-18,P010,Garlic Bread,Beverages,3,110.0,65.0,12.04,Returning,Cash
+O20994,2026-02-19,P007,Paneer Roll,Beverages,10,170.0,100.0,19.09,Returning,Cash
+O20845,2026-02-19,P003,Paneer Wrap,Meals,3,180.0,110.0,8.27,Returning,Cash
+O20968,2026-02-20,P005,Cold Coffee,Beverages,9,140.0,70.0,17.26,New,Card
+O20758,2026-02-21,P001,Classic Veg Burger,Meals,2,150.0,90.0,,New,Card
+O20245,2026-02-22,P001,Classic Veg Burger,Meals,4,150.0,90.0,,Returning,Cash
+O20110,2026-02-22,P008,Chocolate Shake,Meals,10,160.0,85.0,0.48,New,Cash
+O20291,2026-02-23,P007,Paneer Roll,Meals,1,170.0,100.0,3.61,New,Card
+O20221,2026-02-23,P004,French Fries,Snacks,10,120.0,60.0,15.7,Returning,Card
+O20282,2026-02-23,P003,Paneer Wrap,Meals,6,180.0,110.0,24.76,New,UPI
+O20729,2026-02-24,P007,Paneer Roll,Meals,7,170.0,100.0,24.23,Returning,Wallet
+O20137,2026-02-24,P005,Cold Coffee,Beverages,7,140.0,70.0,15.54,Returning,Card
+O20820,2026-02-24,P007,Paneer Roll,Beverages,10,170.0,100.0,8.73,Returning,UPI
+O20905,2026-02-24,P006,Iced Tea,Beverages,9,100.0,50.0,16.13,Returning,UPI
+O20940,2026-02-24,P006,Iced Tea,Beverages,2,100.0,50.0,21.66,Returning,Wallet
+O20765,2026-02-26,P009,Nachos,Snacks,10,130.0,70.0,1.53,New,UPI
+O20926,2026-02-27,P003,Paneer Wrap,Meals,3,180.0,110.0,9.22,New,UPI
+O20908,2026-02-28,P001,Classic Veg Burger,Meals,1,150.0,90.0,19.29,New,Cash
+O20921,2026-02-28,P002,Veg Pizza,Snacks,7,250.0,160.0,,New,UPI
+O20242,2026-02-28,P006,Iced Tea,Beverages,4,100.0,50.0,0.26,New,Cash
